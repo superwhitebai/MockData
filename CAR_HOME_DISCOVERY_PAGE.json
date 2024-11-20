@@ -1,1 +1,2763 @@
-{"code":200,"subCode":null,"message":null,"data":{"blocks":[{"trp_type":null,"trp_id":null,"scene":null,"positionCode":"CAR_PAGE_RECOMMEND_GREETING","c_flowGroupId":null,"channelCode":"construct356601","channelCodeSubId":null,"c_planGroupId":null,"c_planId":null,"c_templateId":null,"c_bizTags":null,"c_resourceType":null,"c_resourceId":null,"c_creativeReachId":null,"originalData":null,"clientData":null,"summary":null,"log":{"s_ctrp":"linkPlatform$pc$CAR_PAGE_RECOMMEND_GREETING"},"moduleType":null,"crossPlatformConfig":{"containerType":"rn","alertConfig":null,"rnContent":{"engineId":null,"moduleName":"rn-search-module2","component":"rn-search-module2_hotTopic","params":{},"estimatedRatio":"","estimatedHeight":356,"componentName":"rn-search-module2","componentId":"rn-search-module2_hotTopic","rnOrpheus":null},"dslContent":null},"nativeConfig":null,"dslData":null,"rnData":{"dataGroupResourceList":[{"creativeReachId":"2069275","subIndex":0,"resourceId":"null","trp_id":"car_home_greet_rcmd_title_channel_1","blockName":"问候区","log":{"s_ctrp":"linkPlatform$cc$car_home_greet_rcmd_title_channel$bpo$$rt$nonstandard$pc$CAR_PAGE_RECOMMEND_GREETING$fgid$536003$pgid$0$pid$1870174$cid$405164$traceid$00000193489d461316790a3b19a311df$bcc$car_home_greet_rcmd_title_channel$bpc$CAR_PAGE_RECOMMEND_GREETING$subPositionCode$CAR_PAGE_RECOMMEND_GREETING-main$spc$CAR_PAGE_RECOMMEND_GREETING-main"},"positionCode":"CAR_PAGE_RECOMMEND_GREETING","templateId":187001,"creativeId":405164,"home_greet_rcmd_title_resource":{"title_zh_HK":"下午好","title_zh_TW":"下午好","title_en_US":"Good afternoon","title":"下午好"},"trp_type":"CAR_PAGE_RECOMMEND_GREETING","planId":"1870174","s_ctrp":"linkPlatform$cc$car_home_greet_rcmd_title_channel$bpo$$rt$nonstandard$pc$CAR_PAGE_RECOMMEND_GREETING$fgid$536003$pgid$0$pid$1870174$cid$405164$traceid$00000193489d461316790a3b19a311df$bcc$car_home_greet_rcmd_title_channel$bpc$CAR_PAGE_RECOMMEND_GREETING$subPositionCode$CAR_PAGE_RECOMMEND_GREETING-main$spc$CAR_PAGE_RECOMMEND_GREETING-main","resourceType":"nonstandard","channelCode":"car_home_greet_rcmd_title_channel"}],"commonResourceList":[{"creativeReachId":"2069275","subIndex":0,"resourceId":"null","trp_id":"car_home_greet_rcmd_title_channel_1","blockName":"问候区","log":{"s_ctrp":"linkPlatform$cc$car_home_greet_rcmd_title_channel$bpo$$rt$nonstandard$pc$CAR_PAGE_RECOMMEND_GREETING$fgid$536003$pgid$0$pid$1870174$cid$405164$traceid$00000193489d461316790a3b19a311df$bcc$car_home_greet_rcmd_title_channel$bpc$CAR_PAGE_RECOMMEND_GREETING$subPositionCode$CAR_PAGE_RECOMMEND_GREETING-main$spc$CAR_PAGE_RECOMMEND_GREETING-main"},"positionCode":"CAR_PAGE_RECOMMEND_GREETING","templateId":187001,"creativeId":405164,"home_greet_rcmd_title_resource":{"title_zh_HK":"下午好","title_zh_TW":"下午好","title_en_US":"Good afternoon","title":"下午好"},"trp_type":"CAR_PAGE_RECOMMEND_GREETING","planId":"1870174","s_ctrp":"linkPlatform$cc$car_home_greet_rcmd_title_channel$bpo$$rt$nonstandard$pc$CAR_PAGE_RECOMMEND_GREETING$fgid$536003$pgid$0$pid$1870174$cid$405164$traceid$00000193489d461316790a3b19a311df$bcc$car_home_greet_rcmd_title_channel$bpc$CAR_PAGE_RECOMMEND_GREETING$subPositionCode$CAR_PAGE_RECOMMEND_GREETING-main$spc$CAR_PAGE_RECOMMEND_GREETING-main","resourceType":"nonstandard","channelCode":"car_home_greet_rcmd_title_channel"},{"duration":0,"log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"subCommonResourceList":[{"extraMap":{"borderColor":"{\"default\":\"#ffd68d33\",\"black\":\"#4E4E5B\",\"night\":\"#4E4E5B\",\"image\":\"#4E4E5B\",\"package\":\"#4E4E5B\"}","iconHeight":"16","titleColor":"{\"default\":\"#7d4a17cc\",\"black\":\"#ffebc2cc\",\"night\":\"#ffebc2cc\",\"image\":\"#ffebc2cc\",\"package\":\"#ffebc2cc\"}","bgColor":"{\"default\":\"#ffd68d4d\",\"black\":\"#313139\",\"night\":\"#313139\",\"image\":\"#313139\",\"package\":\"#313139\"}","iconWidth":"24"},"log":{},"constructLogId":"linkPlatform$pc$null","actionUrl":"orpheus://nm/login","icon":" ","title":"登录畅享精彩内容","logMap":{"fgid":"null"},"duration":0,"iconType":0,"lunaItemType":"activity","showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"resourceType":"activity"}],"logMap":{"fgid":"null"}}]},"nativeData":null,"extMap":{"demote":"false","cacheable":"false"},"callbackParametersMap":null,"bizCode":"CAR_PAGE_RECOMMEND_GREETING","showTitle":true,"needClientCover":false,"feedbackType":null,"likePosition":2,"logId":null,"constructLogId":"linkPlatform$pc$CAR_PAGE_RECOMMEND_GREETING","code":null},{"trp_type":null,"trp_id":null,"scene":null,"positionCode":"CAR_PAGE_RECOMMEND_DAILY_RECOMMEND","c_flowGroupId":null,"channelCode":"construct1040907","channelCodeSubId":null,"c_planGroupId":null,"c_planId":null,"c_templateId":null,"c_bizTags":null,"c_resourceType":null,"c_resourceId":null,"c_creativeReachId":null,"originalData":null,"clientData":null,"summary":null,"log":{"s_ctrp":"linkPlatform$pc$CAR_PAGE_RECOMMEND_DAILY_RECOMMEND"},"moduleType":null,"crossPlatformConfig":{"containerType":"rn","alertConfig":null,"rnContent":{"engineId":null,"moduleName":null,"component":null,"params":null,"estimatedRatio":null,"estimatedHeight":null,"componentName":"rn-search-module2","componentId":"rn-search-module2_hotTopic","rnOrpheus":null},"dslContent":null},"nativeConfig":null,"dslData":null,"rnData":{"code":200,"data":{"data":{"type":"CommonResourceDTO","clazzData":{"generalizedObject":{"blockTitle":"每日推荐","titleAction":null,"blockLabel":"8962272","blockIcon":null,"hasMore":false,"items":[{"title":"每日推荐 | 从「遗失的心跳」听起","subTitle":"每日推荐","simplifiedTitle":"符合你口味的新鲜好歌","description":null,"coverText":"20","tags":null,"coverUrl":"http://p1.music.126.net/r7-Olcy0Pvfv_u7viE6VYg==/109951163858443507.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://songrcmd?tab=default&resourceId=1540959188","resourceId":"1540959188","relateResourceId":null,"resourceType":"dailySongs","lunaItemType":null,"subResourceType":"dailySong","moduleType":"daily_song_rec","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":{"pauseType":"type2","playType":"type2","resourceType":"dailySongs","playActionType":"orpheus","resourceId":"1540959188","playOrpheus":"orpheus://nm/play/dailySong?type=classify&resourceId=1540959188"},"songIds":[26127565],"extData":{"dayOfMonth":"20"},"alg":"alg-music-rec-dailyChoice-rules-stickTop","coverId":"26127565","coverType":"song","coverAlg":"alg-music-rec-hpCover-supple_rand_ns-unrestricted","logInfo":"{\"priority\":\"1.00\",\"alg\":\"alg-music-rec-dailyChoice-rules\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":"","playlistType":null,"demote":true,"reason":null,"reasonId":null,"encResourceId":"7A67518273ECA4622BA73747D9A152D8","encMap":{"1540959188":"2E0C42F32DFB3607897C8A93ED618F5D"},"iconDesc":{"image":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/30907224790/1158/9eb9/dd1f/31a0e1eb0bf4da6eca871147b11d49f8.png?imageView=1&type=webp%7CimageView&thumbnail=180y180","blurRight":"20%","blurLeft":"20%","blurBottom":"20%","blurShow":true,"blurTop":"47%"}},{"title":"SOS","subTitle":"私人漫游","simplifiedTitle":"多种听歌模式随心播放","description":null,"coverText":"私人漫游","tags":null,"coverUrl":"http://p1.music.126.net/NGrnb9lp2T9mKws28NaK7Q==/109951169928941002.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://privatefm?entranceType=newframework_daily_recommend_mix","resourceId":"2623699454","relateResourceId":null,"resourceType":"fm","lunaItemType":null,"subResourceType":null,"moduleType":"fm","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":null,"songIds":null,"extData":{"alg_title":null},"alg":"alg-music-rec-dailyChoice-deft","coverId":"2623699454","coverType":"song","coverAlg":"alg-music-rec-hpCover-supple_rand_ns-unrestricted","logInfo":"{\"priority\":\"3.00\",\"alg\":\"alg-music-rec-dailyChoice-deft\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":null,"playlistType":null,"demote":false,"reason":null,"reasonId":null,"encMap":{"2623699454":"D9F0B93DE0481667A12FED85B843503C"},"iconDesc":{"image":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/30908042328/47e0/ac4b/1a84/f708442d389647aa320608fa60d4eadd.png?imageView=1&type=webp%7CimageView&thumbnail=180y180","blurRight":null,"blurLeft":null,"blurBottom":null,"blurShow":false,"blurTop":null}},{"title":"于是、孤独患者、罗生门（Follow）","subTitle":null,"simplifiedTitle":"云音乐官方top排行榜","description":null,"coverText":null,"tags":null,"coverUrl":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/28752624230/4b5c/daa4/53ec/1522fe45dcbc3f80bc04f7330539132c.png","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://playlist/3778678?referLog=HOMEPAGE_BLOCK_TOPLIST","resourceId":"3778678","relateResourceId":null,"resourceType":"toplist","lunaItemType":null,"subResourceType":null,"moduleType":"hot_song_board","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":null,"songIds":[1303464858,64093,1456890009,2637558926,1301736461,1403318151,1398283847,2124385868,2166584564,1827600686,1918576268,2071935674,1890530891,1842728629,1413585838,2110700883,452986458,2005252136,1895330088,1974443814,1887139866,1903149553,2158973221,1397345903,2642164470,27681762,1851652156,344403,2614851804,344418,2025186889,1927693793,1807799505,189602,2119795491,1482867143,1359356908,2643535318,307780,26387325,65766,2617646167,436346833,488249475,1370880017,2034187125,28403111,2061978961,1951069525,287063,1888381008,108485,2041026502,30612793,1969013954,441491828,25730757,475479888,1406649619,1959528822,1363553440,1303027499,25642952,1922888354,465921195,1495058484,1405283464,2644174802,421423808,1436117704,25648006,2062623445,1330348068,86369,553755659,1368754688,1926623288,1410647903,2072639869,2638631174,349981,1969822728,208902,2018733994,2149816863,541648644,2607303573,1492584510,2005492223,1908049566,208891,247936,28059417,65528,1485309632,28892418,1463165983,1359382613,1417849873,2049512697,2124381474,1441758494,1406083061,1328146041,2088107815,2041799838,1497588709,1443838552,1974443815,209397,1867217766,1979417838,1394167216,1371780785,420401511,1299550532,233921,1336856864,2066713227,529668356,1471039968,1391891631,65536,209046,150432,566436427,30500857,150633,2114626833,1907766514,2632530288,421486605,2161527760,2644174830,2636746926,2613048732,865632948,25906124,2025533834,1459261754,1842025914,502043537,255574,2625288251,2638621689,551400874,2151849447,417859631,2124731026,2033897126,2038191895,1815725297,2609560494,2095242387,167827,469998923,2609291566,543798652,247821,150623,2618710186,2019573476,2643121166,548885986,2642284128,1417862046,108914,26428032,1426112587,1468115100,1293886117,2086327879,2619125556,1936095074,209586,2624625493,2638631898,1838763739,2120125578,2642267710,1960619633,381858,864648569,65739,2049529248,2617423373,306665,316108,2144209098,1989506149,2041974276,523250334,31654343,2110966810,2015896805,254059,25641873,2149792787,30352891,2046990697],"extData":{},"alg":"alg-music-rec-dailyChoice-deft-replace","coverId":null,"coverType":null,"coverAlg":null,"logInfo":"{\"priority\":\"18.00\",\"alg\":\"alg-music-rec-dailyChoice-deft\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":null,"playlistType":null,"demote":false,"reason":null,"reasonId":null,"encResourceId":"7CA7F068087F752790633914BB9DBA6E","encMap":{"3778678":"1E4788F871E65CCDA05DA0A6B4DFC74A"},"iconDesc":{"image":null,"blurRight":null,"blurLeft":null,"blurBottom":null,"blurShow":false,"blurTop":null}},{"title":"这里有一份穿越星河的邀请函，请查收~","subTitle":"新歌首发","simplifiedTitle":"这里有一份穿越星河的邀请函，请查收~","description":null,"coverText":null,"tags":null,"coverUrl":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/56503768880/ceae/63ac/f093/c65d29a217575abec25563d09c4cae41.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://song/B947A807E4A89ABCB7FA37246E0DBC0A","resourceId":"2646535880","relateResourceId":null,"resourceType":"song","lunaItemType":"miniBanner","subResourceType":null,"moduleType":"mini_banner","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":null,"songIds":null,"extData":{"template":"car_mini_banner","s_ctraceid":"00000193489d461316790a3b19a311df","resourceId":"2646535880","popup":{"push":{"pushPlanId":""},"iotPopup":{"title":"","subTitle":"","leftBtn":{"text":"","bgColor":"","resourceId":"","actionUrl":"","textColor":""},"rightBtn":{"text":"","bgColor":"","textColor":""}},"mobilePopup":{"title":"","subTitle":"","btn":{"text":"","resourceId":"","actionUrl":""}},"bannerId":"2167782"},"bannerId":"2167782","pic":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/56503768880/ceae/63ac/f093/c65d29a217575abec25563d09c4cae41.jpg","typeTitle":"新歌首发","deliveryResourceId":"1953450","s_ctrp":"linkPlatform$cc$carRcmdDailyMixMiniBannerChannel$bpo$$rt$nonstandard$pc$DAILY_RECOMMEND_MIX_MINI_BAR$fgid$1355020$pgid$0$pid$1953450$cid$1913807$traceid$00000193489d461316790a3b19a311df$bcc$carRcmdDailyMixMiniBannerChannel$bpc$DAILY_RECOMMEND_MIX_MINI_BAR$subPositionCode$DAILY_RECOMMEND_MIX_MINI_BAR-main$spc$DAILY_RECOMMEND_MIX_MINI_BAR-main","url":"orpheus://song/B947A807E4A89ABCB7FA37246E0DBC0A","content":"这里有一份穿越星河的邀请函，请查收~","resourceType":"song","popData":"DECC7470D801E0DA1B4B77276EE2BA71E8CA8FB4628E6B46FB0BDCD00327C3A154DDF846F8C8A3F17C1B0210D1BEB3E2C1EBCDE5C8886566E62FDBF68BD37961A6720C27712A3790A14636243E8654AC3999843E751FE4BAC19B849A1B481422606F2AB6B6C9C3C1EB41DC4682976D7979C6C79F23E26A93D0D07AE436202548BF2EFB11DCC7DC55F19227EF16E042AF8E887663BF8AA9D9EE8DB9309E67B614A90A1F2FB71C3219AD5682A764D28CE6336F8AEC51301CB6153CFA3DAC829516C19A1D855E1DF8FB9177F9DF79C12A99E1DF62B6C375C27E07DBB5E8ED1FE2A7B3AE6B2EAF182FE54EEEB6813B7509A11AF02DCC383245707E9EF300EDD07B1FD074ABB06201CDD77C32F920DE6443C21C756B561FAD71BB6F748EC4009BFE5479CB985CF8328DF8254CDA70A583F6EEA621265BD1A1C8B89461BBE69AEB85144F66BEB606E2719AAFE0CB414D7455C10AFC74449CED814A2B61BE384CB1633E6556C48C64CCCD6C6866170B4B77A7111973AF059415468A9535C23D37BC2E30CCE86F8BF716131CF1F2012FF24790F37D23EC4469C1C47FDE69C36D49B4B5DAD48844CC3D0AD55EF572A5BEF3959D5B4C8A29560CF3A4BCF18F5BF14FFB6B997E52D02B4F76619504849DD2E7F8C44FBB9F16269FF2A5CD0B7A2976D93DA11CD17ED1545F426413459FF47E7074E6DA"},"alg":"alg-music-rec-miniBanner-manual","coverId":null,"coverType":null,"coverAlg":null,"logInfo":null,"radioAlg":null,"tagText":"新歌首发","playlistType":null,"demote":false,"reason":null,"reasonId":null,"actionUrl":"orpheus://song/B947A807E4A89ABCB7FA37246E0DBC0A","encMap":{"2646535880":"B947A807E4A89ABCB7FA37246E0DBC0A"},"iconDesc":{"image":null,"blurRight":null,"blurLeft":null,"blurBottom":null,"blurShow":false,"blurTop":null}},{"title":"热歌订制榜","subTitle":"私人雷达","simplifiedTitle":"你爱的歌值得反复聆听","description":null,"coverText":"私人雷达","tags":null,"coverUrl":"http://p1.music.126.net/9r7Bl8SNzPQmKdjAtgV4Ng==/109951168650600911.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://playlist/3136952023","resourceId":"3136952023","relateResourceId":null,"resourceType":"playList","lunaItemType":null,"subResourceType":null,"moduleType":"radar","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":null,"songIds":null,"extData":{},"alg":"alg-music-rec-dailyChoice-deft","coverId":"","coverType":"","coverAlg":null,"logInfo":"{\"priority\":\"6.00\",\"alg\":\"alg-music-rec-dailyChoice-deft\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":null,"playlistType":null,"demote":false,"reason":null,"reasonId":null,"encMap":{"3136952023":"9A7EB5CDADCE14EEBA59E09DAC8AD6EC"},"iconDesc":{"image":null,"blurRight":null,"blurLeft":null,"blurBottom":null,"blurShow":false,"blurTop":null}},{"title":"独行侠+爱如潮水（remix）、罗生门（Follow）、晚风","subTitle":"相似歌曲","simplifiedTitle":"从你喜欢的歌听起","description":null,"coverText":"相似歌曲","tags":null,"coverUrl":"http://p1.music.126.net/ra554YmMoOBw8_8xDiDZNg==/109951166276735546.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://nm/play/similarFM?sourceId=[\"1432968475\",\"1456890009\",\"1441758494\"]&sourceType=song&sourceName=独行侠+爱如潮水（remix）&showUI=true","resourceId":"[\"1432968475\",\"1456890009\",\"1441758494\"]","relateResourceId":null,"resourceType":"similarSong","lunaItemType":null,"subResourceType":null,"moduleType":"song_fm","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":null,"songIds":null,"extData":{"alg_title":null},"alg":"alg-music-rec-dailyChoice-deft","coverId":"1432968475","coverType":"song","coverAlg":"alg-music-rec-songFmCover-theme_rand_lan_ns_cache","logInfo":"{\"priority\":\"5.00\",\"alg\":\"alg-music-rec-dailyChoice-deft\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":null,"playlistType":null,"demote":false,"reason":null,"reasonId":null,"encMap":{"12606272":"CD271BBFC0EAECAE1ADC6D6D09850A3A","2849":"E812D7D074CA25125030520F7A5B5F57","26127565":"7A67518273ECA4622BA73747D9A152D8","31158685":"B62824343560E3A5A6536FDF844DFB9A","1303464858":"7CA7F068087F752790633914BB9DBA6E","1540959188":"2E0C42F32DFB3607897C8A93ED618F5D","3136952023":"9A7EB5CDADCE14EEBA59E09DAC8AD6EC","3778678":"1E4788F871E65CCDA05DA0A6B4DFC74A","1456890009":"AF9682638A66D0C1582806E2B2BC2D22","1441758494":"3FFDD1CCDC2ADBD9722B1CF7D77475FF","1432968475":"273EF43DA0C17B6DCED54D39FFBC4811","2646535880":"B947A807E4A89ABCB7FA37246E0DBC0A","1014859781":"C9BE4EC2C5A1B36C6502142925180909","2623699454":"D9F0B93DE0481667A12FED85B843503C"},"iconDesc":{"image":null,"blurRight":null,"blurLeft":null,"blurBottom":null,"blurShow":false,"blurTop":null}},{"title":"史一、吕大叶、古巨基","subTitle":"相似艺人","simplifiedTitle":"从你喜欢的艺人听起","description":null,"coverText":"相似艺人","tags":null,"coverUrl":"http://p1.music.126.net/WKHxR3jGADtPYs3h6fa0TQ==/109951166267904505.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://nm/play/similarFM?sourceId=[31158685,12606272,2849]&sourceType=artist&sourceName=相似艺人&showUI=true","resourceId":"[\"31158685\",\"12606272\",\"2849\"]","relateResourceId":null,"resourceType":"similarArtist","lunaItemType":null,"subResourceType":null,"moduleType":"artist_fm","playCount":null,"playCountStr":null,"resourceExtInfo":{"creators":null,"artists":[{"nickName":null,"imgUrl":"http://p1.music.126.net/WKHxR3jGADtPYs3h6fa0TQ==/109951166267904505.jpg","id":31158685,"name":"史一"},{"nickName":null,"imgUrl":"http://p1.music.126.net/NwpzE7U4j1pM_6UNNCdl6Q==/109951163483620740.jpg","id":12606272,"name":"吕大叶"},{"nickName":"Leo Ku","imgUrl":"http://p1.music.126.net/KKn_xNTssclpBjVitvE-nQ==/109951169266103879.jpg","id":2849,"name":"古巨基"}],"extInfo":null,"subIndex":null},"playBtnData":null,"songIds":null,"extData":{},"alg":"alg-music-rec-dailyChoice-deft","coverId":null,"coverType":null,"coverAlg":null,"logInfo":"{\"priority\":\"4.00\",\"alg\":\"alg-music-rec-dailyChoice-deft\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":null,"playlistType":null,"demote":false,"reason":null,"reasonId":null,"encMap":{"12606272":"CD271BBFC0EAECAE1ADC6D6D09850A3A","2849":"E812D7D074CA25125030520F7A5B5F57","26127565":"7A67518273ECA4622BA73747D9A152D8","31158685":"B62824343560E3A5A6536FDF844DFB9A","1303464858":"7CA7F068087F752790633914BB9DBA6E","1540959188":"2E0C42F32DFB3607897C8A93ED618F5D","3136952023":"9A7EB5CDADCE14EEBA59E09DAC8AD6EC","3778678":"1E4788F871E65CCDA05DA0A6B4DFC74A","1456890009":"AF9682638A66D0C1582806E2B2BC2D22","1441758494":"3FFDD1CCDC2ADBD9722B1CF7D77475FF","1432968475":"273EF43DA0C17B6DCED54D39FFBC4811","2646535880":"B947A807E4A89ABCB7FA37246E0DBC0A","1014859781":"C9BE4EC2C5A1B36C6502142925180909","2623699454":"D9F0B93DE0481667A12FED85B843503C"},"iconDesc":{"image":null,"blurRight":null,"blurLeft":null,"blurBottom":null,"blurShow":false,"blurTop":null}},{"title":"遗失的心跳、你就不要想起我、关于我们","subTitle":"华语流行日推","simplifiedTitle":"你喜欢的华语流行歌曲","description":null,"coverText":"华语流行日推","tags":null,"coverUrl":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/44803331819/fd15/02d0/b515/24a7fa77798bfca06c9a680c16fb13bd.jpg","iconUrl":null,"coverUrlType":null,"actionText":null,"targetUrl":"orpheus://songrcmd?tab=style&source=homepage&categoryId=1000&tagId=10001&songId=26127565,449577226,515411101&resourceId=1014859781","resourceId":"1014859781","relateResourceId":null,"resourceType":"dailySongs","lunaItemType":null,"subResourceType":"style_dailySong","moduleType":"tag_daily_rec","playCount":null,"playCountStr":null,"resourceExtInfo":null,"playBtnData":{"pauseType":"type2","playType":"type2","resourceType":"dailySongs","playActionType":"orpheus","resourceId":"1014859781","playOrpheus":"orpheus://nm/play/dailySong?type=style&source=homepage&categoryId=1000&tagId=10001&songId=26127565,449577226,515411101&resourceId=1014859781"},"songIds":[26127565],"extData":{"rcmdData":[{"itemId":"26127565","itemType":"song","coverId":null,"coverType":null,"alg":"alg-music-rec-hpTagsongImage4Res-supple_rand_ns-10001_cache","reason":null,"reasonId":null,"reasonClick":false,"reasonType":0,"coverResourceType":null,"reasonTag":null,"src":null,"tags":["10001"],"logInfo":"{\"songName\":\"遗失的心跳\",\"keyTagName\":\"华语流行\",\"valueTagPrefList\":\"1020-0.000\",\"srcID\":\"\",\"recTime\":\"1732088905279\",\"recReason\":\"\",\"albumID\":\"2393696\",\"artistID\":\"9945\",\"tag\":\"10001\",\"qukuTag\":\"10001\"}","aiTitle":"遗失的心跳、你就不要想起我、关于我们","waterMark":"华语流行日推","playlistId":null,"playlistType":null,"musDTO":null,"artistId":null,"extMap":{}},{"itemId":"449577226","itemType":"song","coverId":null,"coverType":null,"alg":"alg-music-rec-hpTagsongImage4Res-supple_rand_ns-10001_cache","reason":null,"reasonId":null,"reasonClick":false,"reasonType":0,"coverResourceType":null,"reasonTag":null,"src":null,"tags":["10001"],"logInfo":"{\"songName\":\"你就不要想起我\",\"keyTagName\":\"华语流行\",\"valueTagPrefList\":\"1020-0.000\",\"srcID\":\"\",\"recTime\":\"1732088905279\",\"recReason\":\"\",\"albumID\":\"35093050\",\"artistID\":\"5001\",\"tag\":\"10001\",\"qukuTag\":\"10001\"}","aiTitle":"你就不要想起我、遗失的心跳、关于我们","waterMark":"华语流行日推","playlistId":null,"playlistType":null,"musDTO":null,"artistId":null,"extMap":{}},{"itemId":"515411101","itemType":"song","coverId":null,"coverType":null,"alg":"alg-music-rec-hpTagsongImage4Res-supple_rand_ns-10001_cache","reason":null,"reasonId":null,"reasonClick":false,"reasonType":0,"coverResourceType":null,"reasonTag":null,"src":null,"tags":["10001"],"logInfo":"{\"songName\":\"关于我们\",\"keyTagName\":\"华语流行\",\"valueTagPrefList\":\"1020-0.000\",\"srcID\":\"\",\"recTime\":\"1732088905279\",\"recReason\":\"\",\"albumID\":\"36675180\",\"artistID\":\"12769474\",\"tag\":\"10001\",\"qukuTag\":\"10001\"}","aiTitle":"关于我们、遗失的心跳、你就不要想起我","waterMark":"华语流行日推","playlistId":null,"playlistType":null,"musDTO":null,"artistId":null,"extMap":{}}],"tagId":10001,"categoryId":1000},"alg":"alg-music-rec-dailyChoice-deft","coverId":"26127565","coverType":"song","coverAlg":"alg-music-rec-hpTagsongImage4Res-supple_rand_ns-10001_cache","logInfo":"{\"priority\":\"2.00\",\"alg\":\"alg-music-rec-dailyChoice-deft\",\"modulePref\":\"0.000\"}","radioAlg":null,"tagText":null,"playlistType":null,"demote":false,"reason":null,"reasonId":null,"encResourceId":"7A67518273ECA4622BA73747D9A152D8","encMap":{"1014859781":"C9BE4EC2C5A1B36C6502142925180909"},"iconDesc":{"image":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/30907912705/b6aa/7091/36bb/7c4f433628aa35c0298db9c359b8c940.png?imageView=1&type=webp%7CimageView&thumbnail=180y180","blurRight":"20%","blurLeft":"20%","blurBottom":"20%","blurShow":true,"blurTop":"47%"}}],"songBlockContent":null,"alg":"","extInfo":null,"button":null,"trialSceneMode":null,"month":"11","day":"20"}}}}},"nativeData":null,"extMap":{"demote":"false","cacheable":"true","clientCacheExpireTime":"1732118399999"},"callbackParametersMap":null,"bizCode":"CAR_PAGE_RECOMMEND_DAILY_RECOMMEND","showTitle":true,"needClientCover":false,"feedbackType":null,"likePosition":2,"logId":null,"constructLogId":"linkPlatform$pc$CAR_PAGE_RECOMMEND_DAILY_RECOMMEND","code":null},{"trp_type":null,"trp_id":null,"scene":null,"positionCode":"CAR_PAGE_RECOMMEND_SPECIAL_CLOUD_VILLAGE_PLAYLIST","c_flowGroupId":null,"channelCode":"construct1042908","channelCodeSubId":null,"c_planGroupId":null,"c_planId":null,"c_templateId":null,"c_bizTags":null,"c_resourceType":null,"c_resourceId":null,"c_creativeReachId":null,"originalData":null,"clientData":null,"summary":null,"log":{"s_ctrp":"linkPlatform$pc$CAR_PAGE_RECOMMEND_SPECIAL_CLOUD_VILLAGE_PLAYLIST"},"moduleType":null,"crossPlatformConfig":{"containerType":"rn","alertConfig":null,"rnContent":{"engineId":null,"moduleName":null,"component":null,"params":null,"estimatedRatio":null,"estimatedHeight":null,"componentName":"rn-search-module2","componentId":"rn-search-module2_hotTopic","rnOrpheus":null},"dslContent":null},"nativeConfig":null,"dslData":null,"rnData":{"code":200,"data":{"data":{"type":"CommonResourceDTO","clazzData":{"generalizedObject":{"items":[{"title":"那些超好听的温柔emo歌曲.","subTitle":"如果结局注定分开那么希望不要遇见","resourceId":"3184740404","resourceType":"playlist","coverImg":"http://p1.music.126.net/hV1oG14n3WrtwVhUYhNiFQ==/109951169737517211.jpg","resourceInteractInfo":{"playCount":"931.1万"},"encResourceId":"DC0CC5D9BE244D37EF31D6B2B1C53FFE"},{"title":"你说把爱渐渐放下会走更远","subTitle":null,"resourceId":"10163436376","resourceType":"playlist","coverImg":"http://p1.music.126.net/zrkPS31vbMO5Li7V7bpXiQ==/109951169679668688.jpg","resourceInteractInfo":{"playCount":"800.1万"},"encResourceId":"2A799A87446951C8F5FF0AD802827A00"},{"title":"那些被单曲循环无数次的歌","subTitle":"爱听就多多循环吧！每日更新，感谢支持！","resourceId":"12250090837","resourceType":"playlist","coverImg":"http://p1.music.126.net/hQrktQLn3J_2aop9Hb-Cow==/109951169740092760.jpg","resourceInteractInfo":{"playCount":"583.4万"},"encResourceId":"4BD98C29A18624E67B59B43FC6F8E458"},{"title":"网易云热歌榜精选 好听到爆","subTitle":"见到你之后我就迷失了自己.","resourceId":"12393634501","resourceType":"playlist","coverImg":"http://p1.music.126.net/TSel8Kzq7xfnvR_UI5u5LQ==/109951169838685741.jpg","resourceInteractInfo":{"playCount":"317.7万"},"encResourceId":"48F791D48A788CD10B2F047EB83CF50B"},{"title":"车载弹鼓DJ | 动感弹鼓 车载专属节奏","subTitle":"驾车必备热门弹鼓中文DJ","resourceId":"12528874643","resourceType":"playlist","coverImg":"http://p1.music.126.net/c_uMqEzaWqO_nvtkOqGqag==/109951169927385033.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2NDg0MTczNDQxL2ZlNmQvMjAyNDEwMTQxNTE1MTgveDQxMDE3MzE1Njg1MTgyMzAucG5n&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1","resourceInteractInfo":{"playCount":"44.3万"},"encResourceId":"B99244ECF6A3638A6C4C3423CB3373E4"},{"title":"华语R&B |爱让人像小孩 怕一个人孤独","subTitle":"R&B也就是RnB，全称为Rhythm and Blues，中文意思就是节奏布鲁斯。\n\nR&B发源于非裔美国人艺术家，是一种融合爵士乐、福音音乐和电子布鲁斯音乐为一体的音乐风格。R&B这个音乐术语，是由美国告示牌杂志（Billboard）于1940年代末所提出。\n\n现代节奏布鲁斯R&B一词在今日被定义为非裔美式的流行音乐，源起于迪斯科音乐后续之1980年代，融合了灵魂乐、黑人灵歌、放克音乐、流行音乐以及hip-hop(1986年后)，也就是当代节奏布鲁斯。\n\n现代R&B的编制特征包含电音形式录音制作的风格、类比鼓机制式节奏，以及一种较为柔和、圆浑丰厚的歌声。","resourceId":"12617353175","resourceType":"playlist","coverImg":"http://p1.music.126.net/sZdiVBholZl8Aomo3AX8hQ==/109951169971078334.jpg","resourceInteractInfo":{"playCount":"15.7万"},"encResourceId":"1A9A67E9187DC6654251B312B87C8961"},{"title":"听泉鉴宝沉淀一下赏宝雅曲bgm.","subTitle":"可惜你不看听泉，不懂九点半听泉，十二点国博文，不懂开门，开到南天门，值几个馒头几桶泡面几个华子，半座城，小破烂，东西是老的但没什么用，听不懂什么是传递，什么是下去沉淀沉淀也不知道国博文会鉴腿","resourceId":"12819301918","resourceType":"playlist","coverImg":"http://p1.music.126.net/9EutUppwQUZ8fGSM1p6umg==/109951170118652965.jpg","resourceInteractInfo":{"playCount":"4.8万"},"encResourceId":"DBA53944F2A52AC003A69CD9B983EEAB"},{"title":"『经典韩剧ost合集』开头1秒勾起回忆","subTitle":"记得小时候就喜欢看韩剧，主题曲也特别好听，以前的韩剧每一部都是经典，同一部剧，每个年龄阶段的观后感都会不一样。\n\n让你们最难忘的是哪部韩剧呢？评论区见 欢迎补充","resourceId":"8426424582","resourceType":"playlist","coverImg":"http://p1.music.126.net/xvXJb_KAep9JI-0NYy2Y3Q==/109951168627776354.jpg","resourceInteractInfo":{"playCount":"227.5万"},"encResourceId":"A877BB115E890ADD3EEC80E1A13C054C"},{"title":"治愈轻音乐钢琴曲 舒缓心情","subTitle":"让缕缕清风拂去你内心的疲惫，让姣姣月辉照亮你迷茫的前路，让我的丝丝祝福为你带去愉快的心情，希望你今晚做个好梦，睡个好觉！晚安！","resourceId":"8200864585","resourceType":"playlist","coverImg":"http://p1.music.126.net/iVgvVhWZLi_4ev5mTdhkkQ==/109951168432546642.jpg","resourceInteractInfo":{"playCount":"20.9万"},"encResourceId":"948D4C3396C4ED947B58B76898A6483E"}],"blockTitle":"测试名字"}}}}},"nativeData":null,"extMap":{"demote":"false","cacheable":"true"},"callbackParametersMap":null,"bizCode":"CAR_PAGE_RECOMMEND_SPECIAL_CLOUD_VILLAGE_PLAYLIST","showTitle":true,"needClientCover":false,"feedbackType":null,"likePosition":2,"logId":null,"constructLogId":"linkPlatform$pc$CAR_PAGE_RECOMMEND_SPECIAL_CLOUD_VILLAGE_PLAYLIST","code":null},{"trp_type":null,"trp_id":null,"scene":null,"positionCode":"CAR_PAGE_RECOMMEND_RANK","c_flowGroupId":null,"channelCode":"construct357602","channelCodeSubId":null,"c_planGroupId":null,"c_planId":null,"c_templateId":null,"c_bizTags":null,"c_resourceType":null,"c_resourceId":null,"c_creativeReachId":null,"originalData":null,"clientData":null,"summary":null,"log":{"s_ctrp":"linkPlatform$pc$CAR_PAGE_RECOMMEND_RANK"},"moduleType":null,"crossPlatformConfig":{"containerType":"rn","alertConfig":null,"rnContent":{"engineId":null,"moduleName":"rn-search-module2","component":"rn-search-module2_hotTopic","params":{},"estimatedRatio":"","estimatedHeight":356,"componentName":"rn-search-module2","componentId":"rn-search-module2_hotTopic","rnOrpheus":null},"dslContent":null},"nativeConfig":null,"dslData":null,"rnData":{"code":200,"data":{"data":{"type":"CommonResourceDTO","clazzData":{"generalizedObject":{"blockTitle":"排行榜","items":[{"title":"热歌榜","subTitle":"于是、孤独患者、罗生门（Follow）","resourceId":"3778678","resourceType":"toplist","coverImg":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/28752624230/4b5c/daa4/53ec/1522fe45dcbc3f80bc04f7330539132c.png","encResourceId":"1E4788F871E65CCDA05DA0A6B4DFC74A"},{"title":"原创榜","subTitle":"Coverage、读心术、今天我们融为一体","resourceId":"2884035","resourceType":"toplist","coverImg":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/28752650759/8fa9/ceec/3654/8ee498bfeebff49f326774aeeace2f99.png","encResourceId":"4970FDB2F2FE5B657495A60767BA2690"},{"title":"网络热歌榜","subTitle":"褪黑素 (Live版)、曼陀罗华、孤独患者","resourceId":"6723173524","resourceType":"toplist","coverImg":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/28692303527/c6e1/85a9/7054/127757be514fe4f7b9e2450a5f54c494.png","encResourceId":"E23D6CE54AD547067CD71F341589040E"},{"title":"飙升榜","subTitle":"ALL MY LOVE、野人 (Live版)、不要让我后悔","resourceId":"19723756","resourceType":"toplist","coverImg":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/28752611203/e3bb/7fdd/0619/f28ac1a8027789af9ec3fdce2311baf9.png","playCountStr":"60.9亿","encResourceId":"08ADF9F8465E9B18A4746438EB0BD02F"},{"title":"星云榜","subTitle":"Die With A Smile、Don't Tell Nobody、そうしようか","resourceId":"7325478166","resourceType":"toplist","coverImg":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/33013382162/9706/80e4/105a/d1ac01d5ee46dbcad97051f0197c8b61.jpg","encResourceId":"004BBEC8608359A4B367EC36FFCAF3A6"},{"title":"黑胶VIP新歌榜","subTitle":"盗墓笔记·十年人间、无条件、再去海边","resourceId":"7785123708","resourceType":"playlist","coverImg":"http://p2.music.126.net/vjitpkT9nXBCth6tvdDMWg==/109951169743115266.jpg","playCountStr":"906.7万","encResourceId":"6EF0A64C72CE0F7F63D44B7668249392"},{"title":"新歌榜","subTitle":"谦让 (Live版)、曼陀罗华、想你 (我和你的关系)","resourceId":"3779629","resourceType":"toplist","coverImg":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/28752645496/ccb8/96fe/5155/5d91f95d4feed5827a6047a4bf046872.png","encResourceId":"CABCDD68A53586C0AD3123BAF77CCD89"},{"title":"黑胶VIP热歌榜","subTitle":"如果爱忘了 (live)、爱错、红昭愿","resourceId":"7785066739","resourceType":"playlist","coverImg":"http://p2.music.126.net/Ay3mLgQ9weG_c8JjYrD-Bw==/109951169743106495.jpg","playCountStr":"1.0亿","encResourceId":"238F312B6E4787FD698A67A5EB36E792"},{"title":"云音乐说唱榜","subTitle":"Coverage、不要倒下去、轮到我 ft 连麻Swimming","resourceId":"991319590","resourceType":"playlist","coverImg":"http://p2.music.126.net/tJUsQEQvh51WpP65bmaTCQ==/109951170091890381.jpg","playCountStr":"4.8亿","encResourceId":"E61CB3487BA7D4548575309EFDFEDF0A"}]}}}}},"nativeData":null,"extMap":{"demote":"false","cacheable":"true"},"callbackParametersMap":null,"bizCode":"CAR_PAGE_RECOMMEND_RANK","showTitle":true,"needClientCover":false,"feedbackType":null,"likePosition":2,"logId":null,"constructLogId":"linkPlatform$pc$CAR_PAGE_RECOMMEND_RANK","code":null},{"trp_type":null,"trp_id":null,"scene":null,"positionCode":"CAR_PAGE_RECOMMEND_PRIVATE_RCMD_SONG","c_flowGroupId":null,"channelCode":"construct1041906","channelCodeSubId":null,"c_planGroupId":null,"c_planId":null,"c_templateId":null,"c_bizTags":null,"c_resourceType":null,"c_resourceId":null,"c_creativeReachId":null,"originalData":null,"clientData":null,"summary":null,"log":{"s_ctrp":"linkPlatform$pc$CAR_PAGE_RECOMMEND_PRIVATE_RCMD_SONG"},"moduleType":null,"crossPlatformConfig":{"containerType":"rn","alertConfig":null,"rnContent":{"engineId":null,"moduleName":null,"component":null,"params":null,"estimatedRatio":null,"estimatedHeight":null,"componentName":"rn-search-module2","componentId":"rn-search-module2_hotTopic","rnOrpheus":null},"dslContent":null},"nativeConfig":null,"dslData":null,"rnData":{"code":200,"data":{"data":{"type":"CommonResourceDTO","clazzData":{"generalizedObject":{"block":{"title":"古风 | 爵士 | DJ 热门精选","subTitle":null,"button":null,"showMore":true,"action":null},"playAll":{"resourceIdList":["32408464","480579393","405597568","5170614","28391135","1475847808","1334059163","18638057","2160272507","2031796212","27203936","4874397"],"resourceIdlistStr":"32408464,480579393,405597568,5170614,28391135,1475847808,1334059163,18638057,2160272507,2031796212,27203936,4874397","algs":["newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag","newUser_tag"]},"content":{"items":[{"items":[{"resourceId":"32408464","resourceType":"song","title":"心之火","cover":"http://p1.music.126.net/5D4hfLdRezRlax4OWiPgnw==/2899412164997218.jpg","name":"F.I.R./彭佳慧","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23179980900/f976/3511/c1b2/e82d7d55e7f7c1fe565cb8553657c881.png","action":"orpheus://song/32408464","recReason":"古风热门榜第一名","artistName":"F.I.R./彭佳慧","albumName":"花千骨 电视原声带","showTag":true,"showTagText":null,"tag":"VIP","index":0},{"resourceId":"480579393","resourceType":"song","title":"桃花诺","cover":"http://p2.music.126.net/_v7ezNPQOEJ3aFir8MZmzQ==/19050138463061697.jpg","name":"G.E.M.邓紫棋","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23179980900/f976/3511/c1b2/e82d7d55e7f7c1fe565cb8553657c881.png","action":"orpheus://song/480579393","recReason":null,"artistName":"G.E.M.邓紫棋","albumName":"上古情歌 电视剧原声带","showTag":true,"showTagText":null,"tag":"VIP","index":1},{"resourceId":"405597568","resourceType":"song","title":"山外小楼夜听雨","cover":"http://p2.music.126.net/L8SZ53Nf5le4JDvG6qVB6g==/1424967072083597.jpg","name":"任然","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23179980900/f976/3511/c1b2/e82d7d55e7f7c1fe565cb8553657c881.png","action":"orpheus://song/405597568","recReason":null,"artistName":"任然","albumName":"从小到大","showTag":true,"showTagText":null,"tag":"VIP","index":2}]},{"items":[{"resourceId":"5170614","resourceType":"song","title":"M'Envoyer des Fleurs","cover":"http://p1.music.126.net/PuXWa4tje4SUNM4Jrqaz4w==/1773512255615360.jpg","name":"Sandrine Kiberlain","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23185591468/4fd1/d118/4a7f/12c5a2cd1277fb06473ee07766d31af1.png","action":"orpheus://song/5170614","recReason":"爵士热门榜第一名","artistName":"Sandrine Kiberlain","albumName":"Putumayo Putumayo Presents: Women of the World - Acoustic","showTag":true,"showTagText":null,"tag":"SQ","index":3},{"resourceId":"28391135","resourceType":"song","title":"Lovit","cover":"http://p1.music.126.net/JcL3TIWjGas8cZ5gXI9LGA==/109951168255123116.jpg","name":"Marian Hill","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23179980900/f976/3511/c1b2/e82d7d55e7f7c1fe565cb8553657c881.png","action":"orpheus://song/28391135","recReason":null,"artistName":"Marian Hill","albumName":"Play","showTag":true,"showTagText":null,"tag":"VIP","index":4},{"resourceId":"1475847808","resourceType":"song","title":"HELICOPTER","cover":"http://p1.music.126.net/UUCq_myuZDTeG04qgvYG8g==/109951165289232778.jpg","name":"CLC","tagIcon":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/18698085303/c665/88bd/2b24/ffa7c313ddc2fe0adf2fd87bb618fe03.png","action":"orpheus://song/1475847808","recReason":null,"artistName":"CLC","albumName":"HELICOPTER","showTag":true,"showTagText":null,"tag":"Hi-Res","index":5}]},{"items":[{"resourceId":"1334059163","resourceType":"song","title":"Dancer In The Dark (Original Mix)","cover":"http://p1.music.126.net/9BETsV4GpvIeKb2ydyVXFg==/109951163731656042.jpg","name":"GRABOTE/Marc Philippe","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23185591468/4fd1/d118/4a7f/12c5a2cd1277fb06473ee07766d31af1.png","action":"orpheus://song/1334059163","recReason":"DJ热门榜第一名","artistName":"GRABOTE/Marc Philippe","albumName":"Dancer In The Dark (Original Mix)","showTag":true,"showTagText":null,"tag":"SQ","index":6},{"resourceId":"18638057","resourceType":"song","title":"Baby","cover":"http://p2.music.126.net/S3Mkc-lfXPgsuUYxqVd4yQ==/710284511552973.jpg","name":"Justin Bieber/Ludacris","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23179980900/f976/3511/c1b2/e82d7d55e7f7c1fe565cb8553657c881.png","action":"orpheus://song/18638057","recReason":null,"artistName":"Justin Bieber/Ludacris","albumName":"Baby","showTag":true,"showTagText":null,"tag":"VIP","index":7},{"resourceId":"2160272507","resourceType":"song","title":"Wake","cover":"http://p1.music.126.net/DUOiXxMsOaWzxFYEi9Nfkw==/109951169846070956.jpg","name":"sin/clozz","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23185591468/4fd1/d118/4a7f/12c5a2cd1277fb06473ee07766d31af1.png","action":"orpheus://song/2160272507","recReason":null,"artistName":"sin/clozz","albumName":"Wake","showTag":true,"showTagText":null,"tag":"SQ","index":8}]},{"items":[{"resourceId":"2031796212","resourceType":"song","title":"只是回忆加了分","cover":"http://p2.music.126.net/z8Yr_QZ0iVDNEh8TIb2hZA==/109951168221252871.jpg","name":"给猫讲故事","tagIcon":"https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/18698085303/c665/88bd/2b24/ffa7c313ddc2fe0adf2fd87bb618fe03.png","action":"orpheus://song/2031796212","recReason":null,"artistName":"给猫讲故事","albumName":"只是回忆加了分","showTag":true,"showTagText":null,"tag":"Hi-Res","index":9},{"resourceId":"27203936","resourceType":"song","title":"Y.M.C.A","cover":"http://p2.music.126.net/mV8tH3kDWKs4fwRF0aZlbQ==/6654244371896903.jpg","name":"Village People","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23185591468/4fd1/d118/4a7f/12c5a2cd1277fb06473ee07766d31af1.png","action":"orpheus://song/27203936","recReason":null,"artistName":"Village People","albumName":"Pure Disco","showTag":true,"showTagText":null,"tag":"SQ","index":10},{"resourceId":"4874397","resourceType":"song","title":"倒带","cover":"http://p2.music.126.net/CV-F8BHGUiBlYHlQTv0VFA==/109951163353504369.jpg","name":"蔡依林","tagIcon":"https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/23179980900/f976/3511/c1b2/e82d7d55e7f7c1fe565cb8553657c881.png","action":"orpheus://song/4874397","recReason":null,"artistName":"蔡依林","albumName":"全民发烧偶像剧冠军主题曲Top32","showTag":true,"showTagText":null,"tag":"VIP","index":11}]}]},"resourceSize":12,"encMap":{"480579393":"19CAFBF1E4B009B312D9957B37D5E03E","18638057":"73FA668EC1093D3E29D83402B180B946","1475847808":"58DC970A7AADF68741E9D867404B9E50","4874397":"6CBED64A46FDC287D5E9DDD88CDD7660","5170614":"5067F8526CC19802ED95C02B96CE45A0","2160272507":"1BC2C98FE2F75FF6940E3B6A14F44AA6","405597568":"F00C98130402D1E77109D0A407CFF423","32408464":"8B6808749D663C49BA585144EF39D11B","28391135":"84CBBB8FDAB9A653EEB6CFFAABF1D7CE","2031796212":"B5EA5A4DDBD7D4E0ABBE1D33C25051E3","1334059163":"62FE3877F1E9E585E9D0C8F7CBA37A78","27203936":"639123C84E28327C3A8EE5E42E1A7379"}}}}}},"nativeData":null,"extMap":{"demote":"false","cacheable":"true"},"callbackParametersMap":null,"bizCode":"CAR_PAGE_RECOMMEND_PRIVATE_RCMD_SONG","showTitle":true,"needClientCover":false,"feedbackType":null,"likePosition":2,"logId":null,"constructLogId":"linkPlatform$pc$CAR_PAGE_RECOMMEND_PRIVATE_RCMD_SONG","code":null},{"trp_type":null,"trp_id":null,"scene":null,"positionCode":"CAR_PAGE_RECOMMEND_SCENE_RADIO_LOCATION","c_flowGroupId":null,"channelCode":"construct1043914","channelCodeSubId":null,"c_planGroupId":null,"c_planId":null,"c_templateId":null,"c_bizTags":null,"c_resourceType":null,"c_resourceId":null,"c_creativeReachId":null,"originalData":null,"clientData":null,"summary":null,"log":{"s_ctrp":"linkPlatform$pc$CAR_PAGE_RECOMMEND_SCENE_RADIO_LOCATION"},"moduleType":null,"crossPlatformConfig":{"containerType":"rn","alertConfig":null,"rnContent":{"engineId":null,"moduleName":null,"component":null,"params":null,"estimatedRatio":null,"estimatedHeight":null,"componentName":"rn-search-module2","componentId":"rn-search-module2_hotTopic","rnOrpheus":null},"dslContent":null},"nativeConfig":null,"dslData":null,"rnData":{"extraMap":{"blockTitle":"场景音乐"},"commonResourceList":[{"duration":0,"imgUrl":"http://p1.music.126.net/KKtHgQFC-D-nmAP5AHVZmQ==/109951169287325239.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"助眠","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/8yXrCcJEv467Ks_6yjVKqQ==/109951169287319904.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"运动","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/OS71Ee8zrQUmkv4MwoynLw==/109951169287316409.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"浪漫","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/e052yxAPSQYpWZEW6GZyRw==/109951169287342174.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"DJ","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/hf8USkcV214P90HB7tJ-oA==/109951169287316719.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"快乐","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"https://p2.music.126.net/pk9AMKcqj0RIFaoy-r8xow==/109951169287321315.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"派对","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/kP3ZSftf9Q669EmdCO6oMg==/109951169287309631.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"华语","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/5AjKCvg9q9nQhWn4UouicQ==/109951169287340701.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"爵士","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/z8tgUFguhzVYF91f6wRPlQ==/109951169287320425.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"专注","logMap":{"fgid":"null"}},{"duration":0,"imgUrl":"http://p1.music.126.net/FTwvZjF4KziDBBQqMd_Spw==/109951169287337150.jpg","log":{},"constructLogId":"linkPlatform$pc$null","iconType":0,"showType":"WHITE_RED_TEXT","startTime":0,"endTime":0,"position":0,"title":"摇滚","logMap":{"fgid":"null"}}]},"nativeData":null,"extMap":{"demote":"false","cacheable":"true"},"callbackParametersMap":null,"bizCode":"CAR_PAGE_RECOMMEND_SCENE_RADIO_LOCATION","showTitle":true,"needClientCover":false,"feedbackType":null,"likePosition":2,"logId":null,"constructLogId":"linkPlatform$pc$CAR_PAGE_RECOMMEND_SCENE_RADIO_LOCATION","code":null}],"guideToast":null,"cursor":6,"blockCodeOrderList":"[\"CAR_PAGE_RECOMMEND_RADAR\",\"CAR_HOME_RECOMMEND_PAGE_MUSIC_PODCAST\",\"CAR_HOME_RECOMMEND_PAGE_VOICEBOOK\"]","callbackParameters":"","hasMore":false,"demote":false,"dinformation":null}}
+{
+  "code": 200,
+  "subCode": null,
+  "message": null,
+  "data": {
+    "blocks": [
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_BANNER_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1068912",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_BANNER_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "coverUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/56480090452/0c2e/2114/bab0/f0dac437117606bc8e20a02b78ce5016.jpg",
+                      "resourceType": "song",
+                      "resourceId": "29EDC20CD0517AF08AC80D4A03B9DB0C",
+                      "actionUrl": "orpheus://song/29EDC20CD0517AF08AC80D4A03B9DB0C",
+                      "popup": {
+                        "push": { "pushPlanId": "" },
+                        "iotPopup": {
+                          "title": "",
+                          "subTitle": "",
+                          "leftBtn": {
+                            "text": "",
+                            "bgColor": "",
+                            "textColor": ""
+                          },
+                          "rightBtn": {
+                            "text": "",
+                            "bgColor": "",
+                            "resourceId": "",
+                            "actionUrl": "",
+                            "textColor": ""
+                          }
+                        },
+                        "mobilePopup": {
+                          "title": "",
+                          "subTitle": "",
+                          "btn": { "text": "" }
+                        },
+                        "bannerId": "2119425"
+                      },
+                      "bannerId": "2119425",
+                      "extData": {
+                        "popData": "BB11824AC0D0B6A8690AB1728AA01883987E512A5243435EA51798D689D8F19354DDF846F8C8A3F17C1B0210D1BEB3E2C1EBCDE5C8886566E62FDBF68BD37961A6720C27712A3790A14636243E8654AC3999843E751FE4BAC19B849A1B481422606F2AB6B6C9C3C1EB41DC4682976D7979C6C79F23E26A93D0D07AE436202548BF2EFB11DCC7DC55F19227EF16E042AF8E887663BF8AA9D9EE8DB9309E67B614F81C1FE0BF4EDDF4FF7E9114E52A4A269F3123A094A8A03BB1E82C834A251A11D6D81BD493232D71ED02887F8C774DDB2228F8CB7465A7FBD437B477456111BF63584B1EDCB6ADF0F3433418054316AED48AB9203CCA41C1F49CDAC35BDDB90E622BD2C8EBEAB5D83416311E1A417F91F3D210D945F684A7C623E49BBB4B16B6A73ECC0267E8B47535F6518CBAD0C269A621265BD1A1C8B89461BBE69AEB85144F66BEB606E2719AAFE0CB414D7455C10AFC74449CED814A2B61BE384CB1633E6556C48C64CCCD6C6866170B4B77A7111973AF059415468A9535C23D37BC2E30CCE86F8BF716131CF1F2012FF24790F37D23EC4469C1C47FDE69C36D49B4B5DAD0A6FCCE8CC5E2BC887E5AF2566B17FB8B6DED6CABE52A986E385955BA150E94B6737BA604E16F8DE3FC75949AD684696631F7C83A3EC6673FB813580798F4E1471307817F7D90D531058AE46AD0F35F"
+                      }
+                    },
+                    {
+                      "coverUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/55842498482/e49d/74c6/b5fd/6e9adc659f46a531c0e3618d44c12f26.jpg",
+                      "resourceType": "album",
+                      "resourceId": "49250A12D58A3ED2128AD09A50E5C67F",
+                      "actionUrl": "orpheus://album/49250A12D58A3ED2128AD09A50E5C67F",
+                      "popup": {
+                        "push": { "pushPlanId": "" },
+                        "iotPopup": {
+                          "title": "",
+                          "subTitle": "",
+                          "leftBtn": {
+                            "text": "",
+                            "bgColor": "",
+                            "textColor": ""
+                          },
+                          "rightBtn": {
+                            "text": "",
+                            "bgColor": "",
+                            "resourceId": "",
+                            "actionUrl": "",
+                            "textColor": ""
+                          }
+                        },
+                        "mobilePopup": {
+                          "title": "",
+                          "subTitle": "",
+                          "btn": { "text": "" }
+                        },
+                        "bannerId": "2132031"
+                      },
+                      "bannerId": "2132031",
+                      "extData": {
+                        "popData": "74465B6E8355AE862AC7C70AC4E2AEAC01774FBFA2FAAEC517E0096B7158641E54DDF846F8C8A3F17C1B0210D1BEB3E2C1EBCDE5C8886566E62FDBF68BD37961A6720C27712A3790A14636243E8654AC3999843E751FE4BAC19B849A1B481422606F2AB6B6C9C3C1EB41DC4682976D7979C6C79F23E26A93D0D07AE436202548BF2EFB11DCC7DC55F19227EF16E042AF8E887663BF8AA9D9EE8DB9309E67B614F81C1FE0BF4EDDF4FF7E9114E52A4A269F3123A094A8A03BB1E82C834A251A11D6D81BD493232D71ED02887F8C774DDB2228F8CB7465A7FBD437B477456111BF63584B1EDCB6ADF0F3433418054316AED48AB9203CCA41C1F49CDAC35BDDB90E622BD2C8EBEAB5D83416311E1A417F91F3D210D945F684A7C623E49BBB4B16B6A73ECC0267E8B47535F6518CBAD0C269A621265BD1A1C8B89461BBE69AEB85144F66BEB606E2719AAFE0CB414D7455C10AFC74449CED814A2B61BE384CB1633E6556C48C64CCCD6C6866170B4B77A7111973AF059415468A9535C23D37BC2E30CCE86F8BF716131CF1F2012FF24790F37D23EC4469C1C47FDE69C36D49B4B5DAD0A6FCCE8CC5E2BC887E5AF2566B17FB8B6DED6CABE52A986E385955BA150E94B6737BA604E16F8DE3FC75949AD684696631F7C83A3EC6673FB813580798F4E1471307817F7D90D531058AE46AD0F35F"
+                      }
+                    },
+                    {
+                      "coverUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/56305978847/52d4/f915/3c69/7e6f47c55a33a10b330726fce67b29dd.jpg",
+                      "resourceType": "song",
+                      "resourceId": "CE4429B1D12122F6286566D8EDB9699B",
+                      "actionUrl": "orpheus://song/CE4429B1D12122F6286566D8EDB9699B",
+                      "popup": {
+                        "push": { "pushPlanId": "" },
+                        "iotPopup": {
+                          "title": "",
+                          "subTitle": "",
+                          "leftBtn": {
+                            "text": "",
+                            "bgColor": "",
+                            "textColor": ""
+                          },
+                          "rightBtn": {
+                            "text": "",
+                            "bgColor": "",
+                            "resourceId": "",
+                            "actionUrl": "",
+                            "textColor": ""
+                          }
+                        },
+                        "mobilePopup": {
+                          "title": "",
+                          "subTitle": "",
+                          "btn": { "text": "" }
+                        },
+                        "bannerId": "2155035"
+                      },
+                      "bannerId": "2155035",
+                      "extData": {
+                        "popData": "17594088EE703BB55F6B4F0CEACC9A3B918EE89335B2EAA3DA37E67BEF07BBB754DDF846F8C8A3F17C1B0210D1BEB3E2C1EBCDE5C8886566E62FDBF68BD37961A6720C27712A3790A14636243E8654AC3999843E751FE4BAC19B849A1B481422606F2AB6B6C9C3C1EB41DC4682976D7979C6C79F23E26A93D0D07AE436202548BF2EFB11DCC7DC55F19227EF16E042AF8E887663BF8AA9D9EE8DB9309E67B614F81C1FE0BF4EDDF4FF7E9114E52A4A269F3123A094A8A03BB1E82C834A251A11D6D81BD493232D71ED02887F8C774DDB2228F8CB7465A7FBD437B477456111BF63584B1EDCB6ADF0F3433418054316AED48AB9203CCA41C1F49CDAC35BDDB90E622BD2C8EBEAB5D83416311E1A417F91F3D210D945F684A7C623E49BBB4B16B6A73ECC0267E8B47535F6518CBAD0C269A621265BD1A1C8B89461BBE69AEB85144F66BEB606E2719AAFE0CB414D7455C10AFC74449CED814A2B61BE384CB1633E6556C48C64CCCD6C6866170B4B77A7111973AF059415468A9535C23D37BC2E30CCE86F8BF716131CF1F2012FF24790F37D23EC4469C1C47FDE69C36D49B4B5DAD0A6FCCE8CC5E2BC887E5AF2566B17FB8B6DED6CABE52A986E385955BA150E94B6737BA604E16F8DE3FC75949AD684696631F7C83A3EC6673FB813580798F4E1471307817F7D90D531058AE46AD0F35F"
+                      }
+                    },
+                    {
+                      "coverUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/55686697166/c793/7586/e624/06daa1fb71321f4634360996b964e62d.jpg",
+                      "resourceType": "route",
+                      "resourceId": "",
+                      "actionUrl": "orpheus://popup",
+                      "popup": {
+                        "push": { "pushPlanId": "1912263" },
+                        "iotPopup": {
+                          "popType": "titlePopup",
+                          "title": "测一测你身边的四类关系",
+                          "subTitle": "活动仅支持在手机端参与，快去看看吧",
+                          "leftBtn": {
+                            "text": "在手机上查看",
+                            "resourceType": "route",
+                            "actionUrl": "orpheus://popup/join"
+                          },
+                          "rightBtn": {
+                            "text": "关闭",
+                            "textColor": "colorText2",
+                            "bgColor": "colorText6_1"
+                          }
+                        },
+                        "mobilePopup": {
+                          "title": "来自你的爱车",
+                          "subTitle": "测一测你身边的四类关系",
+                          "btn": {
+                            "text": "立即参与",
+                            "resourceType": "route",
+                            "actionUrl": "orpheus://openurl?url=https%3a%2f%2fsg.music.163.com%2fst%2ffour-relation%3ffull_screen%3dtrue%26nm_style%3dsbt"
+                          }
+                        },
+                        "bannerId": "2119380"
+                      },
+                      "bannerId": "2119380",
+                      "extData": {
+                        "popData": "BB11824AC0D0B6A8690AB1728AA0188327E97C8412BFCE966BEA7FED2A362E0454DDF846F8C8A3F17C1B0210D1BEB3E215E95B7C82E37C4F6681AE120EFE6871BA4EE58171EF6F08345DC1F16BD628F62B5CE86DD876C50125410D991C26A12476DCCF5309C4F8C05377B410FA4317D5920E0B148DDDC897414E816492F4EDE06C806FF84E3EE5CA41483EFC338E883E02380EBC040A464BCE3F68AEDF8FFDD35C3FD9C2BEF4605DF140E226D1D8BEA5EE3EFA88FE97BE73C78188C25436B11519AAF8301884C08BBDE8CAA15BC51EFF6DDD7CD07E4BD1F3C955483EF7BB882EDFDE5AC528979FC4A3A5E4DC9E5344486F8F43D0B5DDCCCC398D3EE3AC3E8A9C0CD7028430F2712F877E4657295FC2D31C756B561FAD71BB6F748EC4009BFE54B315F614EED35507EF60FC50E8AF5997D419FEEB2136BA9A60C3DEE6BF515682C3C3F0D89509DCC1D9CA3A67D27F1047E3DE43EF60FA253C6C57887EFDCB2AF09A3D64B49F2A7CC2AB33EA1F6FEDD268A4B018CBD02BAC52661C9C23CE43D71694966D9977407D93D76896568FF990BA4802682FA6A9847EB129705FE67016BAA2E64A36BC6DE169911BAE80CE233BE67D5933A6FD82339FF8613F8368F3DD265DA1AC1A42027AF702397D6D0B7B6761F56C930EB5E67F78B6BC552987BDA75111105BB2E2050A7DC0F1D4B30DD862D39B3B1491F2ADA6706576E1C494C19CA69A7F2664103FCC180F3E37126E04C42FDE55B5E9EAFE349BFEF9E88C7AA160EF994E4D1F6C01AC9663D09B82B1D23F3C696731000120F387927A47CC9D2F5F2E45AFC89571088481DDC417BA1C7A60555FC96DC4697A16F3C5BC4534ED050FBBEFF606E602F5EE83049AFF934B26851358C6AA55E3794FF8FBEC87450A4538752CB5839A0EF008BB0FB832CA8BB9B0F07E4D72A18A2736AB408F366D1C47AC36EA564A6841F835E588399E3CAC0CAE4570C89BA12A2FA6E8A091ECE3B55348C5E04CD86BA261CD82A04986428D7AD6238AC2DEB4A80F78B90218CA004E82C1FB748243E0BB2D3B1802F43181C3FEEC20BD583784D8980A6D2EBFD647F547755FA0DDCB772E1FC48C33D5DA47EAB0D18C4DE539A152F7EC3B2834B0F2772542CA8CAFA5EFFBF4CD9F02E7A34B3BAC92F009D010E1A3739EE44A773E59C53CA1D740E051A240DFB638D45E3144F1A506CE"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_BANNER_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_BANNER_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_OFFICIAL_PLAYLIST_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043913",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_OFFICIAL_PLAYLIST_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "title": "Easy 1980s | 在深夜酒吧感受复古微醺氛围",
+                      "subTitle": "夜幕降临 酒吧门前的招牌亮起 走进酒馆 卸下疲惫 这一刻只享受耳边的旋律和微醺的心情",
+                      "encResourceId": "39D35397E5FDF657528569032800A171",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/ARzXzXgbdM9j5hW37du9mg==/109951168690485652.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NjM2MzkyMTQwL2ZmODEvMjAyNDUxMzE2NDAyMC94NjcyMTcxODI2ODAyMDEwOS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "2.8万" }
+                    },
+                    {
+                      "title": "备考进度条 | 古典音符击退焦虑 脑容量up",
+                      "subTitle": "每个整装待发的重新开始 在这年少的岁月里 都是为时不晚 现在披星戴月走过的路 终将繁花遍地",
+                      "encResourceId": "85CABD98C5615847C61B3AA5E69CF9F9",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/HrcFP0lnuudbfm1NG6IytA==/109951168864411364.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2NDgwNzgyNjg1LzI4ZjcvMjAyNDEwMTQxMTc0MS94NDQ5MTczMTU1MzY2MTM4Ny5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "8.5万" }
+                    },
+                    {
+                      "title": "60年代摇滚 | 1960年代摇滚精选作品",
+                      "subTitle": "1960年代 摇滚乐逐渐迈向成长",
+                      "encResourceId": "1A1E859688A52426B0BF0573EC944146",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/2_hw5qtWirNJU9PQulBLPg==/109951170032345148.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "250.0万" }
+                    },
+                    {
+                      "title": "说唱晴雨天 | 在说唱音乐中邂逅多重天气",
+                      "subTitle": "欢迎乘坐好心情号天气列车 一起收听来自rapper的天气播报",
+                      "encResourceId": "6D80D1056723C023D40F8DDC44C08A90",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/-0G3ULwlYfOTJPbmTruvRQ==/109951169410457919.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0MzI5Nzk5MzU0LzIyZjAvMjAyNDY1MTQ0NjM3L3g2NDgxNzIwMTYxOTk3MDc0LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "6.6万" }
+                    },
+                    {
+                      "title": "GMF音乐节 | 和英国摇滚乐队BCNR一起畅享自由",
+                      "subTitle": "本届Green Man Festival主要参演艺人有Black Country, New Road、Sampha、Big Thief等。",
+                      "encResourceId": "C57C7074533CB10B1110C8856DDA2C54",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/s2E5-5cS-kZ-PVv3g10Sbg==/109951169878453236.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ1Mjk0MTAxMTUxLzdlZTAvMjAyNDcxNjE3MzczNi94NzQwMTcyMzgwMTA1NTkwMi5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "5.0万" }
+                    },
+                    {
+                      "title": "舞动夏日 | 动感节拍唤醒活力盛夏",
+                      "subTitle": "伴随夏日节拍 尽情绽放你的舞姿",
+                      "encResourceId": "3579AC9B3B5B9B762FD7431D7AB19C0A",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/9Yc7nCni6aXiOu_1QMJflQ==/109951169874731388.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ1MjY4ODY0NDE1L2E1NGUvMjAyNDcxNTE1NzM3L3g2NjQxNzIzNzA1NjU3NTY1LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "9990" }
+                    },
+                    {
+                      "title": "1990s华语摇滚 | 迷茫和躁动中的蓬勃发展",
+                      "subTitle": "呼喊明天与自由的声音 追寻心底赤诚的理想",
+                      "encResourceId": "D5C234A22201E7C1B716B3B8F5CB7E29",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/fGKxbwXPiz7N6OYFMgUUUw==/109951170032340108.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "12.8万" }
+                    },
+                    {
+                      "title": "像素风游戏配乐 | 经典重现 唤起儿时游戏音乐记忆",
+                      "subTitle": "你的游戏启蒙是什么，是街机，Gameboy，还是红白机？\n无论怎样，你都能在这里找到那些小时候陪伴你的游戏芯片音乐，重新拿起丢下的游戏机吧",
+                      "encResourceId": "B91E937555BFC80BB8B08CBF7C2B0033",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/f4O2JHCg4_jf1Vp-boVHZQ==/109951168605350898.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzI4NzMxNjU3MzU5LzQ3N2IvMjAyMzUxNDEwNTIxOS94NDg5MTY4NjcxMTEzOTIyNS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "173.8万" }
+                    },
+                    {
+                      "title": "2017华语说唱 | 年度最热华语说唱盘点",
+                      "subTitle": "2017年度华语说唱热播指南",
+                      "encResourceId": "9FE75A048BD81C9F3B600AFEEC1602ED",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/bHw0-SHoza2W4nD28ZJZhg==/109951170121407062.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "10.3万" }
+                    },
+                    {
+                      "title": "2000s华语摇滚 | 在青春与自由的土地上肆意生长",
+                      "subTitle": "拒绝接受命运的暗淡 自由地奔向理想的征程",
+                      "encResourceId": "B8C28DE5CB90ACBE9F32A55506A6A482",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p1.music.126.net/SGqgMOHKJpGPz2o_oN3PuQ==/109951170032336253.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                      "resourceInteractInfo": { "playCount": "20.0万" }
+                    }
+                  ],
+                  "blockTitle": "官方歌单",
+                  "action": "orpheus://playlistCollection?referLog=HOMEPAGE_BLOCK_PLAYLIST_RCMD"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_OFFICIAL_PLAYLIST_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_OFFICIAL_PLAYLIST_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_HOT_ARTIST_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043912",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_HOT_ARTIST_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "blockTitle": "歌手",
+                  "action": "orpheus://playlistCollection?referLog=HOMEPAGE_BLOCK_PLAYLIST_RCMD",
+                  "items": [
+                    {
+                      "title": "陈奕迅",
+                      "subTitle": null,
+                      "encResourceId": "92F59A766BD982BCD8207905704B0062",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/1qr8a9G8pWEMoruLJaBv8A==/109951169014564421.jpg"
+                    },
+                    {
+                      "title": "薛之谦",
+                      "subTitle": null,
+                      "encResourceId": "362210EA261ABF260B09F944D6EB59A4",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/XRdiK-vIvPo83d-EjUTdEQ==/109951168719786015.jpg"
+                    },
+                    {
+                      "title": "G.E.M.邓紫棋",
+                      "subTitle": null,
+                      "encResourceId": "7CD727C055A37089604B39AD9EF0526B",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/fq1O8ZRT5_FHzg_uLEtUQA==/109951167773880633.jpg"
+                    },
+                    {
+                      "title": "林俊杰",
+                      "subTitle": null,
+                      "encResourceId": "EDD09C792FC0058360D8037C922A0A8F",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/78q0jUUJ0h08GxAs2G-tCA==/109951168529051968.jpg"
+                    },
+                    {
+                      "title": "王力宏",
+                      "subTitle": null,
+                      "encResourceId": "6FB6A318E5D7A2F3EE35A9CAC01B5CD5",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/bM06VHfs1ivzKegl3nMPsg==/109951169421841547.jpg"
+                    },
+                    {
+                      "title": "郑润泽",
+                      "subTitle": null,
+                      "encResourceId": "AD2B3326CBD684E5C2FF132451E9E90B",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/BtXjoRNLCZjoSV-3Ag3M0Q==/109951164458656122.jpg"
+                    },
+                    {
+                      "title": "颜人中",
+                      "subTitle": null,
+                      "encResourceId": "AED2588A776AAC138A9F4564204A7719",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/M9GvSuKJQyfPKprZaLKt7A==/109951165122696427.jpg"
+                    },
+                    {
+                      "title": "汪苏泷",
+                      "subTitle": null,
+                      "encResourceId": "7700EB5564C2D981CCF4AB310D859DB3",
+                      "resourceType": "artist",
+                      "coverImg": "http://p1.music.126.net/7G5HqyqcpZoP4cHL7-a-hQ==/109951170027064713.jpg"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_HOT_ARTIST_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_HOT_ARTIST_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_TOPLIST_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043915",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_TOPLIST_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "title": "飙升榜",
+                      "subTitle": "ALL MY LOVE、野人 (Live版)、不要让我后悔",
+                      "resourceInteractInfo": { "playCount": "60.9亿" },
+                      "resourceId": "19723756",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/rIi7Qzy2i2Y_1QD7cd0MYA==/109951170048506929.jpg",
+                      "encId": "08ADF9F8465E9B18A4746438EB0BD02F"
+                    },
+                    {
+                      "title": "新歌榜",
+                      "subTitle": "谦让 (Live版)、曼陀罗华、想你 (我和你的关系)",
+                      "resourceInteractInfo": { "playCount": "30.5亿" },
+                      "resourceId": "3779629",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/5guhqPBTcIrrhLBotgaT6w==/109951170048511751.jpg",
+                      "encId": "CABCDD68A53586C0AD3123BAF77CCD89"
+                    },
+                    {
+                      "title": "原创榜",
+                      "subTitle": "Coverage、读心术、今天我们融为一体",
+                      "resourceInteractInfo": { "playCount": "5.9亿" },
+                      "resourceId": "2884035",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/BaP9nrocNTL3gGThysv4eQ==/109951170091896587.jpg",
+                      "encId": "4970FDB2F2FE5B657495A60767BA2690"
+                    },
+                    {
+                      "title": "热歌榜",
+                      "subTitle": "于是、孤独患者、罗生门（Follow）",
+                      "resourceInteractInfo": { "playCount": "126.5亿" },
+                      "resourceId": "3778678",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/0SUEG8yDACfx0Bw2MYFv4Q==/109951170048519512.jpg",
+                      "encId": "1E4788F871E65CCDA05DA0A6B4DFC74A"
+                    },
+                    {
+                      "title": "黑胶VIP新歌榜",
+                      "subTitle": "盗墓笔记·十年人间、无条件、再去海边",
+                      "resourceInteractInfo": { "playCount": "906.9万" },
+                      "resourceId": "7785123708",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/vjitpkT9nXBCth6tvdDMWg==/109951169743115266.jpg",
+                      "encId": "6EF0A64C72CE0F7F63D44B7668249392"
+                    },
+                    {
+                      "title": "黑胶VIP热歌榜",
+                      "subTitle": "如果爱忘了 (live)、爱错、红昭愿",
+                      "resourceInteractInfo": { "playCount": "1.0亿" },
+                      "resourceId": "7785066739",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/Ay3mLgQ9weG_c8JjYrD-Bw==/109951169743106495.jpg",
+                      "encId": "238F312B6E4787FD698A67A5EB36E792"
+                    },
+                    {
+                      "title": "网络热歌榜",
+                      "subTitle": "褪黑素 (Live版)、曼陀罗华、孤独患者",
+                      "resourceInteractInfo": { "playCount": "2.3亿" },
+                      "resourceId": "6723173524",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/_kSxOPqQ5J5etC5DKTFwNA==/109951170048519530.jpg",
+                      "encId": "E23D6CE54AD547067CD71F341589040E"
+                    },
+                    {
+                      "title": "云音乐电音榜",
+                      "subTitle": "巴巴贝斯 The Bass、GoneBad(PHONK)、EEYUH! x Fluxxwave",
+                      "resourceInteractInfo": { "playCount": "3.9亿" },
+                      "resourceId": "1978921795",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/hXGObvXfsGtFjFvRhOYAkA==/109951170091888741.jpg",
+                      "encId": "CF36738BEEF9923BDC23F5F3BA6F062F"
+                    },
+                    {
+                      "title": "云音乐说唱榜",
+                      "subTitle": "Coverage、不要倒下去、轮到我 ft 连麻Swimming",
+                      "resourceInteractInfo": { "playCount": "4.8亿" },
+                      "resourceId": "991319590",
+                      "resourceType": "playlist",
+                      "coverImg": "http://p2.music.126.net/tJUsQEQvh51WpP65bmaTCQ==/109951170091890381.jpg",
+                      "encId": "E61CB3487BA7D4548575309EFDFEDF0A"
+                    }
+                  ],
+                  "action": "orpheus://rnpage?component=rn-ranklist-homepage&mainProcessCompat=1&isTheme=true&referLog=HOMEPAGE_BLOCK_TOPLIST",
+                  "blockTitle": "排行榜"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_TOPLIST_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_TOPLIST_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_NEWEST_SONG_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043916",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_NEWEST_SONG_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2643121166,
+                            "encId": "16ABF0032C5C49CAC311D32E1DD73A00",
+                            "name": "恋痛",
+                            "duration": 154285,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": ["穿孔的痛感划过舌尖"],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 37005591,
+                                "encId": "74107427CB3F330F361123ACC4E26C80",
+                                "name": "伍六七",
+                                "coverImgUrl": null
+                              },
+                              {
+                                "id": 34825469,
+                                "encId": "48B7548C8F8F5C140C59C65E278D2921",
+                                "name": "6SP",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 252764486,
+                              "name": "恋痛",
+                              "encId": "91755AF8ABCC65491BEFE1FF5354FA4E",
+                              "coverImgUrl": "http://p1.music.126.net/mOS4AY8Z0L9dnbZiq8AmKQ==/109951170117745247.jpg",
+                              "artists": [
+                                {
+                                  "id": 37005591,
+                                  "encId": null,
+                                  "name": "伍六七",
+                                  "coverImgUrl": null
+                                },
+                                {
+                                  "id": 34825469,
+                                  "encId": null,
+                                  "name": "6SP",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "jyeffect",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "高清臻音"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2642267710,
+                            "encId": "5AC315A65787AEE58DB4DBB00D68AA0A",
+                            "name": "想你",
+                            "duration": 221773,
+                            "copyright": 0,
+                            "transName": "我和你的关系 问你是否愿意",
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 29588305,
+                                "encId": "66CCBF707C127A38DA57BAB5EE5B12E8",
+                                "name": "刘大拿",
+                                "coverImgUrl": null
+                              },
+                              {
+                                "id": 12286056,
+                                "encId": "A38B019C1861EC98C16E7158A83E426C",
+                                "name": "褚晨茜",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 252574279,
+                              "name": "想你",
+                              "encId": "23DDAECD0F24B0500ACAEC015C1A45FF",
+                              "coverImgUrl": "http://p1.music.126.net/9Mqh7h8xouZ_IGBonYe6qQ==/109951170105322171.jpg",
+                              "artists": [
+                                {
+                                  "id": 29588305,
+                                  "encId": null,
+                                  "name": "刘大拿",
+                                  "coverImgUrl": null
+                                },
+                                {
+                                  "id": 12286056,
+                                  "encId": null,
+                                  "name": "褚晨茜",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "jyeffect",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "高清臻音"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2644174802,
+                            "encId": "10DD2E82F7EDDA205404E38E8CC7645A",
+                            "name": "野人 (Live版)",
+                            "duration": 205643,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 1007170,
+                                "encId": "6CFA73066437FA38C13B9BC5F1FD1FD1",
+                                "name": "陈粒",
+                                "coverImgUrl": null
+                              },
+                              {
+                                "id": 30470286,
+                                "encId": "640BB5B5BBC8086234B74BBA238C16DB",
+                                "name": "孟维来",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 253091355,
+                              "name": "有歌2024 第5期",
+                              "encId": "CFB64D9D28A522A386730E45471AEDBB",
+                              "coverImgUrl": "http://p1.music.126.net/9nIJCrQiqS68xwp1ehipOw==/109951170127092947.jpg",
+                              "artists": [
+                                {
+                                  "id": 95485230,
+                                  "encId": null,
+                                  "name": "有歌2024",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "items": [
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2638621689,
+                            "encId": "0D86FEFC060B209613B1D74DFB70288F",
+                            "name": "匿名的好友",
+                            "duration": 216579,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 32220939,
+                                "encId": "9C3D8E62EB47700D9753D672C216A5B9",
+                                "name": "en",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 251400938,
+                              "name": "匿名的好友",
+                              "encId": "E11AA748C7F630C07551AC5D8D191074",
+                              "coverImgUrl": "http://p1.music.126.net/UiXCbh42gRUxRyZL_hllKQ==/109951170062464612.jpg",
+                              "artists": [
+                                {
+                                  "id": 32220939,
+                                  "encId": null,
+                                  "name": "en",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2638631898,
+                            "encId": "FD24E6422B9A4F1BB58997506D888471",
+                            "name": "壁上观",
+                            "duration": 221705,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 1032298,
+                                "encId": "07F7E45AB6012F5FF403A1D7F49DEE55",
+                                "name": "鞠婧祎",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 251403463,
+                              "name": "壁上观",
+                              "encId": "03934CB7CD877AE0320AA6A21B5D7E40",
+                              "coverImgUrl": "http://p1.music.126.net/_XBgmnrIqqCea_XWWvbiVw==/109951170062515928.jpg",
+                              "artists": [
+                                {
+                                  "id": 1032298,
+                                  "encId": null,
+                                  "name": "鞠婧祎",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2642284128,
+                            "encId": "AA1BDADE33B65FEA8E4CA6AFFCE6668A",
+                            "name": "秋风 (粤语版)",
+                            "duration": 201029,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 30784970,
+                                "encId": "6178902C8FD72C4A542BC2BD221ABDA3",
+                                "name": "四熹丸子",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 252578363,
+                              "name": "秋风 (粤语版)",
+                              "encId": "A967B1FD0DBB1748292781FBEF81786B",
+                              "coverImgUrl": "http://p1.music.126.net/D9ZZiHZJ2C77YTb1Keb5Hg==/109951170104843417.jpg",
+                              "artists": [
+                                {
+                                  "id": 30784970,
+                                  "encId": null,
+                                  "name": "四熹丸子",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "jyeffect",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "高清臻音"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "items": [
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2638631174,
+                            "encId": "E4227B88FF459A8E07CBB86715409D9F",
+                            "name": "想你 (我和你的关系)",
+                            "duration": 239355,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 12760523,
+                                "encId": "65FC76E994EAE79C66C464ACF4FD720B",
+                                "name": "董唧唧",
+                                "coverImgUrl": null
+                              },
+                              {
+                                "id": 47841055,
+                                "encId": "7A92155A088BA790850F63C9617AF986",
+                                "name": "何村猪",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 251402245,
+                              "name": "想你",
+                              "encId": "5B5E4407379660CE4B483AC37B873A0B",
+                              "coverImgUrl": "http://p1.music.126.net/tbONLs8n2NgEoha7kmFWmA==/109951170144470387.jpg",
+                              "artists": [
+                                {
+                                  "id": 12760523,
+                                  "encId": null,
+                                  "name": "董唧唧",
+                                  "coverImgUrl": null
+                                },
+                                {
+                                  "id": 47841055,
+                                  "encId": null,
+                                  "name": "何村猪",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2644628426,
+                            "encId": "A1CC443814ADC91AA698E60B152344CB",
+                            "name": "Winner",
+                            "duration": 174841,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 8791,
+                                "encId": "63711639E449C66095C6B5B5A2B8377D",
+                                "name": "李斯丹妮",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 253238256,
+                              "name": "Winner",
+                              "encId": "493C1682F11B3271B8FA74EAE4D50876",
+                              "coverImgUrl": "http://p1.music.126.net/ZGFjDiOYH_jk0KPvXonfMA==/109951170131497241.jpg",
+                              "artists": [
+                                {
+                                  "id": 8791,
+                                  "encId": null,
+                                  "name": "李斯丹妮",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2642686308,
+                            "encId": "361224D5AB8F82C0AF6278DA840CAE17",
+                            "name": "爱的就是你",
+                            "duration": 217187,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": ["无论我走到哪里都不能停止想你"],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 47528044,
+                                "encId": "23799F8238605C3677BDBB52F5CD7B7F",
+                                "name": "Sasablue",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 252674280,
+                              "name": "爱的就是你（女生版）",
+                              "encId": "A93E67B6A2B56F59F072164CE2FC2F47",
+                              "coverImgUrl": "http://p1.music.126.net/Qnceqb6CXJLz-YdVlk5fMg==/109951170111486699.jpg",
+                              "artists": [
+                                {
+                                  "id": 47528044,
+                                  "encId": null,
+                                  "name": "Sasablue",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "jyeffect",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "高清臻音"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "items": [
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2642164470,
+                            "encId": "F04396909CBC3AE7D1B39ABC188B8A32",
+                            "name": "谦让 (Live版)",
+                            "duration": 290951,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 6454,
+                                "encId": "0756A11886403905953B4D1F84EC0715",
+                                "name": "张信哲",
+                                "coverImgUrl": null
+                              },
+                              {
+                                "id": 35495821,
+                                "encId": "46CCAD4D2B7BADD9E821DE82FE949976",
+                                "name": "王靖雯不胖",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 252547864,
+                              "name": "有歌2024 第4期",
+                              "encId": "8D3A53FE722017600C22CC58EAC21992",
+                              "coverImgUrl": "http://p1.music.126.net/rOy1niPFYfh-TTK3ePNoCQ==/109951170103473710.jpg",
+                              "artists": [
+                                {
+                                  "id": 95485230,
+                                  "encId": null,
+                                  "name": "有歌2024",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2643535318,
+                            "encId": "44045423E9A70A1E22973A083AA6FC9C",
+                            "name": "曼陀罗华",
+                            "duration": 162293,
+                            "copyright": 0,
+                            "transName": "记忆中那年我18你16",
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 37334229,
+                                "encId": "E3790702B663E1B1758EFFC0AA795219",
+                                "name": "Sasuke",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 252889579,
+                              "name": "蔓·生花",
+                              "encId": "E2305819375900CADC57720A20917A9D",
+                              "coverImgUrl": "http://p1.music.126.net/qHQleWDYNl8Ev_W4CjpL2A==/109951170121509486.jpg",
+                              "artists": [
+                                {
+                                  "id": 37334229,
+                                  "encId": null,
+                                  "name": "Sasuke",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        },
+                        {
+                          "resourceType": "song",
+                          "resource": {
+                            "id": 2644174830,
+                            "encId": "20D5B838B6A38CBC2D01EFE7556CC4AF",
+                            "name": "褪黑素 (Live版)",
+                            "duration": 267788,
+                            "copyright": 0,
+                            "transName": null,
+                            "alias": [],
+                            "songTag": null,
+                            "liked": false,
+                            "artists": [
+                              {
+                                "id": 6454,
+                                "encId": "0756A11886403905953B4D1F84EC0715",
+                                "name": "张信哲",
+                                "coverImgUrl": null
+                              },
+                              {
+                                "id": 12471927,
+                                "encId": "6FD9AD937400E3790646701BAC211CC6",
+                                "name": "江皓南",
+                                "coverImgUrl": null
+                              }
+                            ],
+                            "albumModel": {
+                              "id": 253091355,
+                              "name": "有歌2024 第5期",
+                              "encId": "CFB64D9D28A522A386730E45471AEDBB",
+                              "coverImgUrl": "http://p1.music.126.net/9nIJCrQiqS68xwp1ehipOw==/109951170127092947.jpg",
+                              "artists": [
+                                {
+                                  "id": 95485230,
+                                  "encId": null,
+                                  "name": "有歌2024",
+                                  "coverImgUrl": null
+                                }
+                              ]
+                            },
+                            "privilegeModel": {
+                              "visible": true,
+                              "playFlag": true,
+                              "downloadFlag": false,
+                              "payPlayFlag": false,
+                              "payDownloadFlag": true,
+                              "vipFlag": false,
+                              "vipPlayFlag": false,
+                              "fragmentFreeTrial": false,
+                              "fragmentFreeTrialModel": null,
+                              "songMaxBr": 999000,
+                              "userMaxBr": 320000,
+                              "playMaxbr": 999000,
+                              "maxBrLevel": "sky",
+                              "plLevel": "exhigh",
+                              "dlLevel": "none",
+                              "songSize": 0,
+                              "songMd5": null,
+                              "songFee": 8,
+                              "qualities": null,
+                              "levelConfuse": null,
+                              "privateCloudSong": false
+                            },
+                            "playUrlModel": null,
+                            "recReason": "沉浸声"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_NEWEST_SONG_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_NEWEST_SONG_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_SONG_STYLE_PLAYLIST_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043919",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_SONG_STYLE_PLAYLIST_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12393947642,
+                        "encId": "AFCB856487DF9BF5F2419AD8E71C33F4",
+                        "name": "Lush Lofi | 夜晚与音符共奏静谧之歌",
+                        "describe": "星空闪烁，音符起舞，一起聆听这场夜晚与音符的浪漫共鸣曲。",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 3884,
+                        "subscribedCount": 71,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 60,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/IPHYvpx2-cBwyCp8oc7d9A==/109951169838815035.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MTY1MzcxNzYzLzQxODEvMjAyNDEwMTE3NDAzNi94NjExMTczMDQ1NDAzNjI0MS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3NjEwNDk3MDYyL2VlOTMvOTIxYS82NjE4LzdhMDc5ZDg0NTYyMDAwZmVkZWJmMjVjYjE4NjhkOWEzLnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12393984641,
+                        "encId": "4149930BD3D52F2BCECA02E4C2D2D6BC",
+                        "name": "Lofi Pub | 在舒缓旋律中放松心灵",
+                        "describe": "用舒缓韵律消散一天的疲惫，微醺一下放松身心",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 24662,
+                        "subscribedCount": 116,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 60,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/yQf0-tevoPjlPEmca9Eb4w==/109951169838806706.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MTY1NDA5MjExLzU5Y2UvMjAyNDEwMTE3NDI1L3gzODcxNzMwNDU0MTI1NjMyLnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3NjEwNDk3MDYyL2VlOTMvOTIxYS82NjE4LzdhMDc5ZDg0NTYyMDAwZmVkZWJmMjVjYjE4NjhkOWEzLnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5383043369,
+                        "encId": "CE8D0A0A1F28143C2D41CC768296B02E",
+                        "name": "Lofi HipHop | 复古混响",
+                        "describe": "Lofi Hip Hop是大量运用说唱音乐中的鼓组，再加上一些低音质化的采样以此营造复古感、Chill感的音乐风格",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 286413,
+                        "subscribedCount": 3066,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 87,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/ghZqS-f-ZKEUeysFEn3AHw==/109951168793814543.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0MzI2NTk4NjYzLzk2NTgvMjAyNDY1MTE0My94NjA4MTcyMDE0ODY0MzE3MC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3NjEwNDk3MDYyL2VlOTMvOTIxYS82NjE4LzdhMDc5ZDg0NTYyMDAwZmVkZWJmMjVjYjE4NjhkOWEzLnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12394107641,
+                        "encId": "EB807CBE9E3D58DA5087686E0C92797E",
+                        "name": "Lofi Night | 夜色里的悠然旋律",
+                        "describe": "夜色降临，伴随着悠扬旋律迎接惬意夜晚",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 13335,
+                        "subscribedCount": 164,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 60,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/KOwF9R-l4eWJ6ZiC8Cw9fA==/109951169838798388.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MTY1NDIwMDk1L2EwOWMvMjAyNDEwMTE3NDIyOS94OTMxMTczMDQ1NDE0OTEzNC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3NjEwNDk3MDYyL2VlOTMvOTIxYS82NjE4LzdhMDc5ZDg0NTYyMDAwZmVkZWJmMjVjYjE4NjhkOWEzLnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12394150640,
+                        "encId": "4822E5B700702ACF93A44A70F91DCD34",
+                        "name": "Lofi Vibe | 轻松时刻的完美伴侣",
+                        "describe": "音乐是休憩时的最佳伴侣，随着韵律一起享受轻松时刻",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 41744,
+                        "subscribedCount": 276,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 60,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/eXfgTgbBZDyak0cWd80D8g==/109951169838811128.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MTY1NDAwNDc3L2I3YTAvMjAyNDEwMTE3NDE0OC94NzI1MTczMDQ1NDEwODc5OS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3NjEwNDk3MDYyL2VlOTMvOTIxYS82NjE4LzdhMDc5ZDg0NTYyMDAwZmVkZWJmMjVjYjE4NjhkOWEzLnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12393947641,
+                        "encId": "F903CB2A06D6E5AF8331C1A784252919",
+                        "name": "Chill Lofi | 漫步云端的轻松律动",
+                        "describe": "随着律动摇摆，体验漫步云端的惬意时光",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 19790,
+                        "subscribedCount": 161,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 60,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/qIM0u0fN-hrP1WShxB1kfQ==/109951169838793483.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MTY1NDMwMDEyL2IyNjIvMjAyNDEwMTE3NDI1NS94NTA0MTczMDQ1NDE3NTE1Mi5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3NjEwNDk3MDYyL2VlOTMvOTIxYS82NjE4LzdhMDc5ZDg0NTYyMDAwZmVkZWJmMjVjYjE4NjhkOWEzLnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    }
+                  ],
+                  "blockTitle": "官方歌单"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "true" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_SONG_STYLE_PLAYLIST_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_SONG_STYLE_PLAYLIST_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_RAP_YIDA_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1044908",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_RAP_YIDA_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "resourceType": "fm",
+                      "resource": {
+                        "name": "24h不间断说唱频道 一键播放",
+                        "ruleType": "1",
+                        "tabTagId": "rap",
+                        "id": 1342951475,
+                        "encId": "6DE4BA7BD99210D49E792169FE19198B",
+                        "coverText": "说唱漫游",
+                        "coverImgUrl": "http://p2.music.126.net/Yea5UVje7IRzqkjFkbX8eg==/109951163827463301.jpg"
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10026401200,
+                        "encId": "8833E32056C59D9980C192F9F31A60F1",
+                        "name": "新说唱24强 | 贰万、AThree等实力唱将成功晋级",
+                        "describe": "2024中国新说唱24强已诞生，一起来听听晋级选手的热门作品！",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 123285,
+                        "subscribedCount": 644,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 24,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/-AyOM2hCgkL2WOZc79xWNQ==/109951169572395928.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDM3NzA5NzAzLzY4ODMvMjAyNDYxMDExMTkzNy94MjcyMTcyMDU4MTU3NzQ2MC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10078422203,
+                        "encId": "3F1A69CF28FA7E9BD6C9601606F902FE",
+                        "name": "嘻哈最佳Diss曲 | Complex史上最佳Diss曲评选",
+                        "describe": "从2Pac的《Hit Em Up》到Kendrick Lamar的《Not Like Us》，为你带来近期Complex评选的有史以来最佳HipHop Diss歌曲。",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 45448,
+                        "subscribedCount": 254,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 44,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/r_0e2ymIUPaKK9NLrsGN2g==/109951169617564426.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2MTY2OTkxNzIwLzczMDIvMjAyNDQyMzE2Mjg1Mi94MzgwMTcxNjQ1MjkzMjg3Mi5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5395488578,
+                        "encId": "871C18B935D48121F7621826AD6284E1",
+                        "name": "欧美说唱新歌 | Cordae全新个人专辑来袭",
+                        "describe": "每周最新上线欧美说唱歌曲，编辑精选推荐。",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 10187970,
+                        "subscribedCount": 49387,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 50,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/DSmmQmLnIkNCIGweo54dIA==/109951170155174074.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 8728025206,
+                        "encId": "C0E9CC599CB9E16ADFB316E0F01CCC53",
+                        "name": "华语说唱趋势 | 谢帝全新专辑火热循环中",
+                        "describe": "时下热门华语说唱动态",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 1321913,
+                        "subscribedCount": 7715,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 141,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/7Rje8TtqDrEN1Td15zhmaQ==/109951170155406515.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10060195201,
+                        "encId": "FA0C41CF8B7D1AA1392C0DB52E263A4C",
+                        "name": "Billboard说唱榜 | Kendrick全新diss曲成功登顶",
+                        "describe": "Billboard Hot Rap Songs是美国公告牌于每周发布的最受欢迎top 25嘻哈说唱排行榜",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 72490,
+                        "subscribedCount": 318,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 25,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/HZObuHHgE8QQp9wisrvELQ==/109951169598109262.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDYyMTU1MTQ5LzdhZjcvMjAyNDYxMTExNDUxNy94NjA5MTcyMDY2OTUxNzU3OS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 8450195200,
+                        "encId": "DED9BF6AB7A589E905DCFE68020553C1",
+                        "name": "全球说唱趋势 | Lil Baby全新单曲热播中",
+                        "describe": "全球时下热门说唱实时更新",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 2872137,
+                        "subscribedCount": 7763,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 119,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/iiNkJZV8ctMBL8LtZ9b-vQ==/109951170155366477.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10106425201,
+                        "encId": "27C0235C0C5D68081BD17DDC39A28D06",
+                        "name": "百首最佳说唱 | 2024最值得一听的百首说唱佳作",
+                        "describe": "为你带来流媒体时代100首值得一听的最佳说唱！",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 245275,
+                        "subscribedCount": 1221,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 100,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/NBvhkZTl32fthdGeHu_qcw==/109951169638167897.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDYyMTA0MTI2LzBlZGIvMjAyNDYxMTExNDE1Mi94NjcxMTcyMDY2OTMxMjYwNS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9485709203,
+                        "encId": "106E57C910335C4CFCD4A30854C2E311",
+                        "name": "Rap Beef | 对决升级！Drake家门口发生真实\"火拼\"",
+                        "describe": "本歌单收录了，Drake和Kendrick Lamar从冷战到近期焦灼化互相diss的歌曲，以及他们各自的代表作。",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 137039,
+                        "subscribedCount": 529,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 48,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/QilsfP3UG_PghnrHWlRKcg==/109951169443512828.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM1ODA4OTc2NTczL2Y0ZTAvMjAyNDQ4MTgzODEyL3g2ODQxNzE1MTY0NjkyNDcxLnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 8484478202,
+                        "encId": "12373633E7F219D9DAB264ED70AB9AD5",
+                        "name": "华语说唱新歌 | 国蛋全新EP惊喜上线",
+                        "describe": "每周五，最新上线华语说唱歌曲精选。",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 1754063,
+                        "subscribedCount": 5105,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 50,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/gOZb-VrZdCOPy9vx0BNeHA==/109951170155291997.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9450735202,
+                        "encId": "C4E657C5CBD4778BEE2C6B4637657D3C",
+                        "name": "新说唱2024 | 第一轮晋级选手作品精选",
+                        "describe": "2024中国新说唱第一批晋级选手名单已公布，一起来听听热门选手的精选作品！",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 237795,
+                        "subscribedCount": 912,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 30,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/tJ0G2dgfZTMzysO5izG8Vw==/109951169432617911.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDM4MDAwMzUyLzFmZDEvMjAyNDYxMDExNDAxNi94OTYyMTcyMDU4MjgxNjQzOS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10016419200,
+                        "encId": "68D4ACB15E28FF143AE8E061F7BB5D73",
+                        "name": "Beat每日推荐 | 全都是超好听的说唱Beat！每日更新100首",
+                        "describe": "超好听说唱beat就在这里等你来听！",
+                        "creatorNickName": "云音乐说唱星球",
+                        "playCount": 133472,
+                        "subscribedCount": 939,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 100,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/6fPy0A_EJTZYXFhJDQZp7g==/109951169569756253.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2MDMxNzQ4MjYyL2E4NGEvMjAyNDQxNzE3MTcxOC94MTA3MTcxNTkzNzQzODMzOC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    }
+                  ],
+                  "blockTitle": "说唱主打"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_RAP_YIDA_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_RAP_YIDA_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_ELEC_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1044909",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": { "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_ELEC_POS" },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "resourceType": "fm",
+                      "resource": {
+                        "name": "24h不间断电音频道 一键播放",
+                        "ruleType": "1",
+                        "tabTagId": "electronic",
+                        "id": 1850955460,
+                        "encId": "63871B7977D1BBE3CB4DB08B9528E12A",
+                        "coverText": "电音漫游",
+                        "coverImgUrl": "http://p2.music.126.net/ahRW8bb9cwmW6vseM1OU1w==/109951166064244612.jpg"
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12285662640,
+                        "encId": "FF38730C00ADE3DA2A79B390E8D74CD5",
+                        "name": "盛夏浩室 | 炎炎夏日,百首必听House精品",
+                        "describe": "烈日炎炎，为你带来百首house精品清凉一夏",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 67972,
+                        "subscribedCount": 278,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 100,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/XRfA7fbukDul6PNy8ihTWA==/109951169764750586.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDYyMDE3MzU0LzhhOTIvMjAyNDYxMTExMzU1Mi94NDYzMTcyMDY2ODk1MjIzMy5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12316693641,
+                        "encId": "A957D3181C00889BCE1574C492EC8D4F",
+                        "name": "夏日Ibiza | 来自清凉海滩的电子海风",
+                        "describe": "清新舒缓节奏陪你chill整个夏天",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 57514,
+                        "subscribedCount": 378,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 60,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/_FORFHEZXXH96Wil7kPDRQ==/109951169790104222.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NjA5NzcyODk4LzZlMzMvMjAyNDYxNzE0NDY5L3g2MjMxNzIxMTk4NzY5NzQ2LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12718935642,
+                        "encId": "977724BE3445CC798C92C5FAB4569941",
+                        "name": "沙发音乐 | 摩登都市下的顶级慵懒节奏",
+                        "describe": "沙发音乐是一种多元化的音乐类型，包括一些强调氛围感的器乐，以及受Chillout和Downtempo影响的现代电子音乐等。它通常以宁静为主题，让聆听者产生身处丛林、岛屿、天堂或外太空的奇妙意境。",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 28077,
+                        "subscribedCount": 238,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 50,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/dZbVkCosVcFDWdSknAOSaQ==/109951170037831141.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU1NzI0NjcwNDI2L2M1YjgvMjAyNDkxMjE3MzkxNS94NjUyMTcyODcyNTk1NTYzMC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12650447640,
+                        "encId": "75862F4BAC8D38F5BBA9B669E1A0E682",
+                        "name": "Psychill致幻驰音 | 迷幻幽冥 恍惚之旅",
+                        "describe": "Psychill/Psybient致幻驰放精神盛宴",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 33362,
+                        "subscribedCount": 232,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 40,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/KbH2JH6eQPQVlo1XuBpQ0w==/109951169995334807.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10086286200,
+                        "encId": "EF295F911ED45D092D73BB034BEF3F07",
+                        "name": "AVA电音节 | 2024视听艺术电音节AVA阵容公布",
+                        "describe": "2024年5月31日至6月1日，AVA音乐节将重返其常规场地泰坦尼克船台，演出嘉宾包括Nia Archives、Kerri Chandler、BICEP等知名DJ，以庆祝音乐节成立10周年纪念日。",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 39764,
+                        "subscribedCount": 108,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 20,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/ZCnVZRSkdOn1EbaQM_YeJw==/109951169617455004.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDYyMTMwMzEyLzQyZjcvMjAyNDYxMTExNDM0My94NDY2MTcyMDY2OTQyMzA2Ny5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9745027200,
+                        "encId": "86DCCCB4C0658DCA4B00CA180ADEF8E6",
+                        "name": "S2O电音节 | 泰国泼水音乐节演出艺人作品集",
+                        "describe": "4月13日至15日，泰国泼水节期间，一年一度亚洲最大电音湿身泼水盛典S2O音乐节即将来袭！15位世界知名电音DJ齐聚曼谷为大家演绎一场水与火的音乐大狂欢！",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 125917,
+                        "subscribedCount": 470,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 30,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/rkP6nej5oNvM-Id-NJvb5A==/109951169484645745.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM1MTE5NTg2ODQ3LzNmMTQvMjAyNDMxMDE2MTM2L3gxODAxNzEyNzM2Nzg1OTQ5LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 8432676200,
+                        "encId": "2C8F051B4FD6368A9DFC2C5CC00A7503",
+                        "name": "全球电音趋势 | Kygo全新EDM单曲热播中",
+                        "describe": "全球时下热门电音实时更新",
+                        "creatorNickName": "云音乐官方歌单",
+                        "playCount": 2368422,
+                        "subscribedCount": 5400,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 118,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/gT1Po_xMWXp457v-2nS1bg==/109951170155336818.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9493047204,
+                        "encId": "16D78EC2B38EDCA6AD382D04C6B18886",
+                        "name": "2024风暴电音节 | 杭州站艺人作品抢先预热",
+                        "describe": "2024年万众期待的风暴电音节杭州站演出阵容已揭晓，五一不见不散！",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 190152,
+                        "subscribedCount": 711,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 30,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/_aIoWu--seiM31Y66-p3hQ==/109951169448305381.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM0OTAyNjE2NTIwLzNjODUvMjAyNDMxMTgyNDIyL3gxNDMxNzExOTY3MDYyMDAyLnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5358179958,
+                        "encId": "010E5F5A3FAF237E7C8DF6FBB69EE69B",
+                        "name": "电音新歌到 | 棉花糖全新专辑\"致敬\"Fred again..",
+                        "describe": "每周五，我们会推荐30首本周新曲，欢迎大家在评论区留言！不要忘记收藏订阅~",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 1808974,
+                        "subscribedCount": 5192,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 30,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/gvRoqzJqIJbq8R7QsmSUpw==/109951170155259688.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 2340621859,
+                        "encId": "022231217D44C2D483DA287D4A0B4D07",
+                        "name": "国电新势力 | 和Lizzy Wang新单一起moving不停",
+                        "describe": "来自国人的最新优秀电音作品精选，让我们一起发现国电新世界！",
+                        "creatorNickName": "电音赫兹",
+                        "playCount": 24938716,
+                        "subscribedCount": 148086,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 30,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/wsL-P6SO4kzuFGODSglwKQ==/109951170130850712.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MzM3NDkzNDEwLzM5YzUvMjAyNDEwODE2NDgzMy94ODg4MTczMTA1NTcxMzYyMi5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10056016200,
+                        "encId": "48996BB940F2C1C5D14BA4F5705A56AF",
+                        "name": "EDMA音乐奖 | 2024电子舞曲音乐奖获奖作品",
+                        "describe": "2024年EDMA电子舞曲颁奖典礼于2024年3月22日在迈阿密伊甸洛克酒店举行，该奖项旨在表彰全球电子舞曲音乐界最佳歌曲、艺术家等。",
+                        "creatorNickName": "云音乐电音星球",
+                        "playCount": 87301,
+                        "subscribedCount": 319,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 40,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/4DCFG5Q-k7__zaXZnwi2FA==/109951169591953362.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0NDYyMTU5OTY2LzFlZTQvMjAyNDYxMTExNDU0MS94NzM5MTcyMDY2OTU0MTc0NS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    }
+                  ],
+                  "blockTitle": "电音主打"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_ELEC_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_ELEC_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_ROCK_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043917",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": { "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_ROCK_POS" },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "resourceType": "fm",
+                      "resource": {
+                        "name": "24h不间断摇滚频道 一键播放",
+                        "ruleType": 1,
+                        "ruleId": "27001",
+                        "id": 501468000,
+                        "encId": "3A2CF8A4738BED0BA603FEFF9B956714",
+                        "coverText": "摇滚漫游",
+                        "coverImgUrl": "http://p2.music.126.net/NcB0KW6bKs83cmO-OTT1fw==/109951163013755204.jpg"
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 6962828626,
+                        "encId": "555B6FC9F816703FF15FD78A8DA943A4",
+                        "name": "Bass万岁 | 贝斯手们站起来了！",
+                        "describe": "Bass才是灵魂！全世界的贝斯手都站起来了！",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 420523,
+                        "subscribedCount": 5808,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 70,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/Leq-sBrVnQ6ym4MsFVOehA==/109951168914125251.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzMwNDAzODA4MTM5L2RkZjgvMjAyMzgxNDExMjIxMS94NTQwMTY5NDY2MTczMTYyNy5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12538760644,
+                        "encId": "8ECDA39BB9A28E5D60B8A578633DC09B",
+                        "name": "摇滚新声势 | 现在该听什么摇滚？",
+                        "describe": "现在该听这些摇滚！",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 17929,
+                        "subscribedCount": 73,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 120,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/d9321nRxdbMaHx3eh2leJw==/109951169952067126.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ1ODUyOTA0Njk0L2U5OTIvMjAyNDgxMTE3NTYxOC94Njg2MTcyNjA0ODU3ODEwOS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10060179200,
+                        "encId": "C7279762F131B0889F1BA076CDD06614",
+                        "name": "硬地摇滚上新 | 康士坦的变化球新歌点亮困境中的光",
+                        "describe": "[硬地原创音乐榜]推出的周更歌单，为你精选华语摇滚新歌",
+                        "creatorNickName": "硬地原创音乐榜",
+                        "playCount": 23674,
+                        "subscribedCount": 92,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 36,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/oIZL2gT3lJK3wfquNPU8-g==/109951170141222405.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12528874644,
+                        "encId": "D90370F99DEB5D9802911BBD23CE5A1F",
+                        "name": "Chill Espanol | 感受拉丁摇滚的unplugged魅力",
+                        "describe": "拉丁摇滚遇上unplug 一起感受纯粹的原声魅力",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 12114,
+                        "subscribedCount": 80,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 70,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/FDVegTucmmoiqSRM66LDeg==/109951169932518412.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ1NzE5MjE3NzIzL2Y5OTcvMjAyNDg1MTY5NDUveDYzMzE3MjU1MjM3ODU0OTMucG5n&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9872673201,
+                        "encId": "1DE49D0E6DB875A1B600293D357A6C2F",
+                        "name": "英国摇滚榜 | The Goo Goo Dolls热单《Iris》霸榜中",
+                        "describe": "英国Official Charts摇滚榜内容大集合 速速来听！",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 83602,
+                        "subscribedCount": 217,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 40,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/FHgisfWxHMHeo4Jmho70nw==/109951169635493404.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU1OTIyNTUyMjc1L2U3MTMvMjAyNDkyMjEwMTgyMi94OTM0MTcyOTU2MzUwMTkwNS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9755380208,
+                        "encId": "0B11584B6365533C8442652D64D2C6BA",
+                        "name": "Indie热播精选 | 时下热门Indie精选速速来听",
+                        "describe": "收藏歌单 发掘时下热门独立音乐",
+                        "creatorNickName": "云音乐热点君",
+                        "playCount": 17382,
+                        "subscribedCount": 30,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 14,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/xLJs3-vlPK94nsX2jXxFEQ==/109951169644753003.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MDg3MjE4OTU3LzMzNTEvMjAyNDkyOTE2MjAyNi94MzE4MTczMDE5MDAyNjEyMy5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 12625993640,
+                        "encId": "15AA823BB09711919D3EA103377961AE",
+                        "name": "Be Happy | 常听摇滚心情好！",
+                        "describe": "心情好听摇滚，心情不好还是得听摇滚～",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 62920,
+                        "subscribedCount": 307,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 50,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/RWpDU2aiKGONCnM3fvUH-w==/109951169977179285.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ2MDQ0MTAyOTI0L2M3OTcvMjAyNDgyMDE4NDEzL3g0NjYxNzI2ODI4ODYzNjg1LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9193746201,
+                        "encId": "E1F3FD7052D626A2F0A177625CC87079",
+                        "name": "Rock Digging | 来淘点好听的摇滚",
+                        "describe": "走进钟爱的唱片店 从成百上千张专辑里 淘出值得珍藏的摇滚记忆",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 75564,
+                        "subscribedCount": 295,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 70,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/uP1YW-9bCwS9jxe-yH6LWA==/109951169280363378.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzMzMDEyOTk2ODEwLzIxZDEvMjAyNDAyMzE2MTg1My94NDY5MTcwNTk5NzkzMzk0MC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9477560202,
+                        "encId": "84876BDC5705BC431F0A134C80F1E082",
+                        "name": "滑棒吉他 | 丝滑流动的声音之流",
+                        "describe": "滑棒（Slide）是一种吉他演奏技术，演奏者从一个音符平滑地滑到另一个音符，从而创造出独特且极具表现力的连奏或“滑动”效果。乐手将布鲁斯的影响融入到滑棒的声音中，为吉他solo和节奏部分增添了表现力。",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 24909,
+                        "subscribedCount": 112,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 50,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/slIQgOCdMPWIrLwnCZ_J5A==/109951169440953611.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM0NzMyOTYzMjEzL2NiMmQvMjAyNDIyNTE3NDI1MC94NTg4MTcxMTM1OTc3MDkyMy5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 9902494202,
+                        "encId": "734F8384833349475B51CADD7CF1F945",
+                        "name": "听歌识曲摇滚榜 | KISS经典热单斩获头筹",
+                        "describe": "一起来听大家都在听歌识曲哪些摇滚歌曲！",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 92973,
+                        "subscribedCount": 231,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 97,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/o9CWzpZQ8JvvXrzrmfnqQg==/109951169635511066.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NjM3Nzc5NDQ1LzJhZGQvMjAyNDUxMzE4NjE2L3g3NjUxNzE4MjczMTc2MTY1LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 10128346200,
+                        "encId": "34274FF39E8CCD0EE7A80E2CB96E403E",
+                        "name": "经典后朋专辑 | 快乐小分队名盘入选Discogs史上最经典后朋专辑",
+                        "describe": "近日，著名音乐库网站Discogs评选出史上最经典的12张后朋克专辑，一起来听吧！",
+                        "creatorNickName": "云音乐摇滚星球",
+                        "playCount": 137613,
+                        "subscribedCount": 535,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 165,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/2uEGgITV75mudkIwF6JVbQ==/109951169652091673.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NDE1NjM4OTI3L2I5ZGEvMjAyNDUzMTYxODYveDE5MTE3MTc0MDI2ODY3MzYucG5n&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    }
+                  ],
+                  "blockTitle": "摇滚时刻"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_ROCK_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_ROCK_POS",
+        "code": null
+      },
+      {
+        "trp_type": null,
+        "trp_id": null,
+        "scene": null,
+        "positionCode": "CAR_HOME_DISCOVERY_PAGE_CHILD_POS",
+        "c_flowGroupId": null,
+        "channelCode": "construct1043918",
+        "channelCodeSubId": null,
+        "c_planGroupId": null,
+        "c_planId": null,
+        "c_templateId": null,
+        "c_bizTags": null,
+        "c_resourceType": null,
+        "c_resourceId": null,
+        "c_creativeReachId": null,
+        "originalData": null,
+        "clientData": null,
+        "summary": null,
+        "log": {
+          "s_ctrp": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_CHILD_POS"
+        },
+        "moduleType": null,
+        "crossPlatformConfig": {
+          "containerType": "rn",
+          "alertConfig": null,
+          "rnContent": {
+            "engineId": null,
+            "moduleName": null,
+            "component": null,
+            "params": null,
+            "estimatedRatio": null,
+            "estimatedHeight": null,
+            "componentName": "rn-search-module2",
+            "componentId": "rn-search-module2_hotTopic",
+            "rnOrpheus": null
+          },
+          "dslContent": null
+        },
+        "nativeConfig": null,
+        "dslData": null,
+        "rnData": {
+          "code": 200,
+          "data": {
+            "data": {
+              "type": "CommonResourceDTO",
+              "clazzData": {
+                "generalizedObject": {
+                  "items": [
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 8465558201,
+                        "encId": "88FA5C3C7E876716F8547FFC84E632FF",
+                        "name": "宝宝巴士英文儿歌大全 | 跟着宝宝巴士听英文儿歌",
+                        "describe": "宝宝巴士英文儿歌大全",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 387129,
+                        "subscribedCount": 4331,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 283,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/xFDCbe8AgdisICFT63qBZw==/109951168807251572.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0MzA4NDg3MTE0LzFiNWIvMjAyNDY0MTUzNzEyL3gyMjcxNzIwMDc4NjMxOTY0LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5374600786,
+                        "encId": "143ACB834022B33071A27E1D2E143003",
+                        "name": "动物儿歌 | 给0-3岁宝宝听 走进儿歌中的动物乐园",
+                        "describe": "给0-3岁宝宝听的可爱动物儿歌～",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 737741,
+                        "subscribedCount": 5587,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 155,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/3PBs34-6W1IFA0tuIaemRA==/109951168647170335.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0MzI2NjA5NDg3LzU4ZWUvMjAyNDY1MTE0NDQveDMyNTE3MjAxNDg2ODQwMTUucG5n&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5370463465,
+                        "encId": "94B13F87113E2F2CC3F043A48A79E453",
+                        "name": "热门儿歌精选 | 适合0-6岁宝贝 百听不腻的好儿歌",
+                        "describe": "精心整理的全网最热门儿歌 集教育性、娱乐性于一体 宝贝爱听，爸妈放心",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 4276416,
+                        "subscribedCount": 20844,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 100,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/zDBn6edNXTda4XUB53SQoQ==/109951170032410906.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU1NjgwNTAyNDM5Lzg3YWEvMjAyNDkxMDE4NjQyL3g3ODMxNzI4NTU0ODAxOTE3LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5253879227,
+                        "encId": "7BDCFBE0606BB3B96121702E4ADABF09",
+                        "name": "贝瓦经典儿歌大全 | 宝宝爱听的儿歌旋律",
+                        "describe": "欢迎收听贝瓦儿歌",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 1527227,
+                        "subscribedCount": 8836,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 292,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/RdwiPkXxHv6Lf-S9Px6lsA==/109951168814833723.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzQ0MzI2NjY3NjI0LzcxMzAvMjAyNDY1MTE5NS94NTk4MTcyMDE0ODk0NTAxNy5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 7107390165,
+                        "encId": "BE9A29FC4E9D215A979CE3D152889519",
+                        "name": "冬季儿歌 | 健健康康过冬天",
+                        "describe": "暖心儿歌，陪你过冬。",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 200796,
+                        "subscribedCount": 480,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 32,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/4z1PT5i8I4v5AaNClq9gkw==/109951168647174155.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2MTA5NTEyNzM2LzJjYWIvMjAyNDkzMDE0MjM3L3g1MjExNzMwMjY5Mzg3MjE2LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 6631675661,
+                        "encId": "E61D267FA22CCB3CFA23A4FAD7AAC43A",
+                        "name": "宝宝巴士睡前故事 | 进入甜蜜梦乡的故事合集",
+                        "describe": "听完故事进入甜蜜梦乡吧",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 10912467,
+                        "subscribedCount": 35428,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 460,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/GSXbb2eGbg-SK6US2rq8yw==/109951168814810871.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NTkyNjAwNzgzL2E0YzkvMjAyNDUxMTE0MjkzNy94ODY5MTcxODA4NzM3NzU1NC5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 2496278519,
+                        "encId": "F078136505438D689E8188DC401BFBF1",
+                        "name": "贝乐虎儿歌大全 | 贝乐虎儿歌伴宝宝成长",
+                        "describe": "贝乐虎儿歌精选",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 5127179,
+                        "subscribedCount": 23480,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 221,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/Hfp7YupPb8ogJQ5LviRBjQ==/109951169839043869.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzU2NTkxNTk0ODgyLzE5NTIvMjAyNDEwMTkxNDQ5MTAveDUzOTE3MzE5OTg5NDk5MjAucG5n&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 2496322078,
+                        "encId": "DC912D9532812ECC051BCE4C44F3B61F",
+                        "name": "宝宝巴士儿歌大全 | 宝宝巴士儿歌大全伴娃成长",
+                        "describe": "宝宝巴士中文儿歌，内容持续更新中~",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 17189364,
+                        "subscribedCount": 56631,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 654,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/GfnAbgoFh8Gii4buYOzXFw==/109951168814804249.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NTkyMzAxOTA0LzQ4YzkvMjAyNDUxMTE0ODkveDkwMzE3MTgwODYwODk3NDcucG5n&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 2492255119,
+                        "encId": "EFCE32CB391EDC728F5DA6F09DCFD9FA",
+                        "name": "Peppa Pig | 小猪佩奇欢乐儿歌",
+                        "describe": "小猪佩奇欢乐儿歌",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 1195674,
+                        "subscribedCount": 8661,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 64,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/dMppQ6qY4KyAzNks7L7jMg==/109951168814840667.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NTkyMjc3NDM0Lzk1NzEvMjAyNDUxMTE0NjE5L3gzMzQxNzE4MDg1OTc5OTE3LnBuZw==&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    },
+                    {
+                      "resourceType": "playlist",
+                      "resource": {
+                        "id": 5199439533,
+                        "encId": "D5524987A8CC5E1036CF5FC3B41817DF",
+                        "name": "宝贝儿歌精选 | 亲子编辑团队精选优质中文儿歌",
+                        "describe": "为宝贝精选的优质儿歌 就在宝贝儿歌精选",
+                        "creatorNickName": "云音乐儿歌专区",
+                        "playCount": 5105383,
+                        "subscribedCount": 28023,
+                        "tags": null,
+                        "subed": false,
+                        "trackCount": 30,
+                        "specialType": 100,
+                        "coverImgUrl": "http://p1.music.126.net/fjPyItaCvJUCoSViigLeYA==/109951169277769780.jpg?imageView=1&thumbnail=800y800&enlarge=1%7CimageView=1&watermark&type=1&image=b2JqL3c1bkRrTUtRd3JMRGpEekNtOE9tLzM2NTkyMzU5MTg4LzY3YWUvMjAyNDUxMTE0MTE1OS94NzIzMTcxODA4NjMxOTg1OS5wbmc=&dx=0&dy=0%7Cwatermark&type=1&image=b2JqL3dvbkRsc0tVd3JMQ2xHakNtOEt4LzI3MTM3NDIzNTQ3LzVjMGQvZDA1Ny9jNDYyL2I0NTRiZDc0NzQxNzYzYmNiNjRiZGU1OTYwZGY0MDQ2LnBuZw==&dx=0&dy=0%7CimageView=1",
+                        "songNameCompose": null
+                      }
+                    }
+                  ],
+                  "blockTitle": "儿歌精选"
+                }
+              }
+            }
+          }
+        },
+        "nativeData": null,
+        "extMap": { "demote": "false", "cacheable": "false" },
+        "callbackParametersMap": null,
+        "bizCode": "CAR_HOME_DISCOVERY_PAGE_CHILD_POS",
+        "showTitle": true,
+        "needClientCover": false,
+        "feedbackType": null,
+        "likePosition": 2,
+        "logId": null,
+        "constructLogId": "linkPlatform$pc$CAR_HOME_DISCOVERY_PAGE_CHILD_POS",
+        "code": null
+      }
+    ],
+    "guideToast": null,
+    "cursor": 6,
+    "blockCodeOrderList": "[\"CAR_HOME_DISCOVERY_PAGE_RAP_YIDA_POS\",\"CAR_HOME_DISCOVERY_PAGE_ELEC_POS\",\"CAR_HOME_DISCOVERY_PAGE_ROCK_POS\",\"CAR_HOME_DISCOVERY_PAGE_CHILD_POS\"]",
+    "callbackParameters": "",
+    "hasMore": false,
+    "demote": false,
+    "dinformation": null
+  }
+}
